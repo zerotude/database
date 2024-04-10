@@ -147,7 +147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000000100",
@@ -292,12 +292,12 @@
     "out:ROI% (exclude maintenance cost)": 80.163888,
     "out:maintenance year": 2028,
     "out:maintenance description": "Injustering",
-    "out:ROI(maintenance)": 15,
+    "out:ROI(maintenance)": 4,
     "out:ROI(energy)": 0,
-    "out:savings_maintenance(kr)": 10000,
+    "out:savings_maintenance(kr)": 11150,
     "out:savings_energy(kr)": 0,
     "out:maintenance(kr)": 259000,
-    "out:ExtraCost(kr)": 0
+    "out:extracost(kr)": 0
   },
   {
     "ID": "Z00000000000001000",
@@ -443,11 +443,11 @@
     "out:maintenance year": 2024,
     "out:maintenance description": "Stambyte VA",
     "out:ROI(maintenance)": 0,
-    "out:ROI(energy)": 10,
+    "out:ROI(energy)": 12,
     "out:savings_maintenance(kr)": 0,
-    "out:savings_energy(kr)": 20000,
+    "out:savings_energy(kr)": 13199,
     "out:maintenance(kr)": 45281000,
-    "out:ExtraCost(kr)": 200000
+    "out:extracost(kr)": 113840
   },
   {
     "ID": "Z00000000000001100",
@@ -597,7 +597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010000000",
@@ -743,11 +743,11 @@
     "out:maintenance year": 2028,
     "out:maintenance description": "Takbyte",
     "out:ROI(maintenance)": 0,
-    "out:ROI(energy)": 12,
+    "out:ROI(energy)": 4,
     "out:savings_maintenance(kr)": 0,
-    "out:savings_energy(kr)": 80000,
+    "out:savings_energy(kr)": 19530,
     "out:maintenance(kr)": 997000,
-    "out:ExtraCost(kr)": 700000
+    "out:extracost(kr)": 462905
   },
   {
     "ID": "Z00000000010000100",
@@ -897,7 +897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010001000",
@@ -1047,7 +1047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010001100",
@@ -1197,7 +1197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020000000",
@@ -1340,14 +1340,14 @@
     "out:maintenance description2": -999,
     "out:investment cost (exclude maintenance)": 925810.6498,
     "out:ROI% (exclude maintenance cost)": 5.794834,
-    "out:maintenance year": "",
-    "out:maintenance description": "",
-    "out:ROI(maintenance)": "",
-    "out:ROI(energy)": "",
-    "out:savings_maintenance(kr)": "",
-    "out:savings_energy(kr)": "",
-    "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:maintenance year": "2028",
+    "out:maintenance description": "Takbyte",
+    "out:ROI(maintenance)": "0",
+    "out:ROI(energy)": "2",
+    "out:savings_maintenance(kr)": "0",
+    "out:savings_energy(kr)": "22728",
+    "out:maintenance(kr)": "997000",
+    "out:extracost(kr)": "925811"
   },
   {
     "ID": "Z00000000020000100",
@@ -1497,7 +1497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020001000",
@@ -1647,7 +1647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020001100",
@@ -1797,7 +1797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100000000",
@@ -1943,11 +1943,11 @@
     "out:maintenance year": 2024,
     "out:maintenance description": "Stambyte VA",
     "out:ROI(maintenance)": 0,
-    "out:ROI(energy)": 20,
+    "out:ROI(energy)": 37,
     "out:savings_maintenance(kr)": 0,
-    "out:savings_energy(kr)": 10000,
+    "out:savings_energy(kr)": 17599,
     "out:maintenance(kr)": 45281000,
-    "out:ExtraCost(kr)": 500000
+    "out:extracost(kr)": 47508
   },
   {
     "ID": "Z00000000100000100",
@@ -2097,7 +2097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100001000",
@@ -2247,7 +2247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100001100",
@@ -2397,7 +2397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110000000",
@@ -2547,7 +2547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110000100",
@@ -2697,7 +2697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110001000",
@@ -2847,7 +2847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110001100",
@@ -2997,7 +2997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120000000",
@@ -3147,7 +3147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120000100",
@@ -3297,7 +3297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120001000",
@@ -3447,7 +3447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120001100",
@@ -3597,7 +3597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001000000000",
@@ -3743,11 +3743,11 @@
     "out:maintenance year": 2029,
     "out:maintenance description": "Byte frånluftsfläkt FF20",
     "out:ROI(maintenance)": 0,
-    "out:ROI(energy)": 6,
+    "out:ROI(energy)": 5,
     "out:savings_maintenance(kr)": 0,
-    "out:savings_energy(kr)": 90000,
+    "out:savings_energy(kr)": 50722,
     "out:maintenance(kr)": 35000,
-    "out:ExtraCost(kr)": 1500000
+    "out:extracost(kr)": 989374
   },
   {
     "ID": "Z00000001000000100",
@@ -3897,7 +3897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001000001000",
@@ -4047,7 +4047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001000001100",
@@ -4197,7 +4197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001010000000",
@@ -4347,7 +4347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001010000100",
@@ -4497,7 +4497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001010001000",
@@ -4647,7 +4647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001010001100",
@@ -4797,7 +4797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001020000000",
@@ -4947,7 +4947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001020000100",
@@ -5097,7 +5097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001020001000",
@@ -5247,7 +5247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001020001100",
@@ -5397,7 +5397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001100000000",
@@ -5547,7 +5547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001100000100",
@@ -5697,7 +5697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001100001000",
@@ -5847,7 +5847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001100001100",
@@ -5997,7 +5997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001110000000",
@@ -6147,7 +6147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001110000100",
@@ -6297,7 +6297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001110001000",
@@ -6447,7 +6447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001110001100",
@@ -6597,7 +6597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001120000000",
@@ -6747,7 +6747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001120000100",
@@ -6897,7 +6897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001120001000",
@@ -7047,7 +7047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000001120001100",
@@ -7197,7 +7197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000000000",
@@ -7342,12 +7342,12 @@
     "out:ROI% (exclude maintenance cost)": -250.994937,
     "out:maintenance year": 2023,
     "out:maintenance description": "Byte fönster",
-    "out:ROI(maintenance)": 2,
+    "out:ROI(maintenance)": 1,
     "out:ROI(energy)": 0,
-    "out:savings_maintenance(kr)": 50000,
+    "out:savings_maintenance(kr)": 16328,
     "out:savings_energy(kr)": 0,
     "out:maintenance(kr)": 2533000,
-    "out:ExtraCost(kr)": 0
+    "out:extracost(kr)": 0
   },
   {
     "ID": "Z00000100000000100",
@@ -7497,7 +7497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000001000",
@@ -7647,7 +7647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000001100",
@@ -7797,7 +7797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010000000",
@@ -7947,7 +7947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010000100",
@@ -8097,7 +8097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010001000",
@@ -8247,7 +8247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010001100",
@@ -8397,7 +8397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020000000",
@@ -8547,7 +8547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020000100",
@@ -8697,7 +8697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020001000",
@@ -8847,7 +8847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020001100",
@@ -8997,7 +8997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100000000",
@@ -9147,7 +9147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100000100",
@@ -9297,7 +9297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100001000",
@@ -9447,7 +9447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100001100",
@@ -9597,7 +9597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110000000",
@@ -9747,7 +9747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110000100",
@@ -9897,7 +9897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110001000",
@@ -10047,7 +10047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110001100",
@@ -10197,7 +10197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120000000",
@@ -10347,7 +10347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120000100",
@@ -10497,7 +10497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120001000",
@@ -10647,7 +10647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120001100",
@@ -10797,7 +10797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101000000000",
@@ -10947,7 +10947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101000000100",
@@ -11097,7 +11097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101000001000",
@@ -11247,7 +11247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101000001100",
@@ -11397,7 +11397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101010000000",
@@ -11547,7 +11547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101010000100",
@@ -11697,7 +11697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101010001000",
@@ -11847,7 +11847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101010001100",
@@ -11997,7 +11997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101020000000",
@@ -12147,7 +12147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101020000100",
@@ -12297,7 +12297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101020001000",
@@ -12447,7 +12447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101020001100",
@@ -12597,7 +12597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101100000000",
@@ -12747,7 +12747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101100000100",
@@ -12897,7 +12897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101100001000",
@@ -13047,7 +13047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101100001100",
@@ -13197,7 +13197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101110000000",
@@ -13347,7 +13347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101110000100",
@@ -13497,7 +13497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101110001000",
@@ -13647,7 +13647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101110001100",
@@ -13797,7 +13797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101120000000",
@@ -13947,7 +13947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101120000100",
@@ -14097,7 +14097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101120001000",
@@ -14247,7 +14247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000101120001100",
@@ -14397,7 +14397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000000000",
@@ -14542,12 +14542,12 @@
     "out:ROI% (exclude maintenance cost)": -11.324867,
     "out:maintenance year": 2023,
     "out:maintenance description": "Byte fönster",
-    "out:ROI(maintenance)": 2,
+    "out:ROI(maintenance)": 1,
     "out:ROI(energy)": 0,
-    "out:savings_maintenance(kr)": 50000,
+    "out:savings_maintenance(kr)": 21162,
     "out:savings_energy(kr)": 0,
     "out:maintenance(kr)": 2533000,
-    "out:ExtraCost(kr)": 0
+    "out:extracost(kr)": 0
   },
   {
     "ID": "Z00000200000000100",
@@ -14697,7 +14697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000001000",
@@ -14847,7 +14847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000001100",
@@ -14997,7 +14997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010000000",
@@ -15147,7 +15147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010000100",
@@ -15297,7 +15297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010001000",
@@ -15447,7 +15447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010001100",
@@ -15597,7 +15597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020000000",
@@ -15747,7 +15747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020000100",
@@ -15897,7 +15897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020001000",
@@ -16047,7 +16047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020001100",
@@ -16197,7 +16197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100000000",
@@ -16347,7 +16347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100000100",
@@ -16497,7 +16497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100001000",
@@ -16647,7 +16647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100001100",
@@ -16797,7 +16797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110000000",
@@ -16947,7 +16947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110000100",
@@ -17097,7 +17097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110001000",
@@ -17247,7 +17247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110001100",
@@ -17397,7 +17397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120000000",
@@ -17547,7 +17547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120000100",
@@ -17697,7 +17697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120001000",
@@ -17847,7 +17847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120001100",
@@ -17997,7 +17997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201000000000",
@@ -18147,7 +18147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201000000100",
@@ -18297,7 +18297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201000001000",
@@ -18447,7 +18447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201000001100",
@@ -18597,7 +18597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201010000000",
@@ -18747,7 +18747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201010000100",
@@ -18897,7 +18897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201010001000",
@@ -19047,7 +19047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201010001100",
@@ -19197,7 +19197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201020000000",
@@ -19347,7 +19347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201020000100",
@@ -19497,7 +19497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201020001000",
@@ -19647,7 +19647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201020001100",
@@ -19797,7 +19797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201100000000",
@@ -19947,7 +19947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201100000100",
@@ -20097,7 +20097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201100001000",
@@ -20247,7 +20247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201100001100",
@@ -20397,7 +20397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201110000000",
@@ -20547,7 +20547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201110000100",
@@ -20697,7 +20697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201110001000",
@@ -20847,7 +20847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201110001100",
@@ -20997,7 +20997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201120000000",
@@ -21147,7 +21147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201120000100",
@@ -21297,7 +21297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201120001000",
@@ -21447,7 +21447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000201120001100",
@@ -21597,7 +21597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000000000",
@@ -21743,11 +21743,11 @@
     "out:maintenance year": 2047,
     "out:maintenance description": "Omputsning",
     "out:ROI(maintenance)": 0,
-    "out:ROI(energy)": 3,
+    "out:ROI(energy)": 4,
     "out:savings_maintenance(kr)": 0,
-    "out:savings_energy(kr)": 40000,
+    "out:savings_energy(kr)": 41120,
     "out:maintenance(kr)": 5779000,
-    "out:ExtraCost(kr)": 900000
+    "out:extracost(kr)": 989000
   },
   {
     "ID": "Z01000000000000100",
@@ -21897,7 +21897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000001000",
@@ -22047,7 +22047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000001100",
@@ -22197,7 +22197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010000000",
@@ -22347,7 +22347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010000100",
@@ -22497,7 +22497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010001000",
@@ -22647,7 +22647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010001100",
@@ -22797,7 +22797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020000000",
@@ -22947,7 +22947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020000100",
@@ -23097,7 +23097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020001000",
@@ -23247,7 +23247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020001100",
@@ -23397,7 +23397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100000000",
@@ -23547,7 +23547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100000100",
@@ -23697,7 +23697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100001000",
@@ -23847,7 +23847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100001100",
@@ -23997,7 +23997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110000000",
@@ -24147,7 +24147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110000100",
@@ -24297,7 +24297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110001000",
@@ -24447,7 +24447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110001100",
@@ -24597,7 +24597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120000000",
@@ -24747,7 +24747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120000100",
@@ -24897,7 +24897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120001000",
@@ -25047,7 +25047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120001100",
@@ -25197,7 +25197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001000000000",
@@ -25347,7 +25347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001000000100",
@@ -25497,7 +25497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001000001000",
@@ -25647,7 +25647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001000001100",
@@ -25797,7 +25797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001010000000",
@@ -25947,7 +25947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001010000100",
@@ -26097,7 +26097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001010001000",
@@ -26247,7 +26247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001010001100",
@@ -26397,7 +26397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001020000000",
@@ -26547,7 +26547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001020000100",
@@ -26697,7 +26697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001020001000",
@@ -26847,7 +26847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001020001100",
@@ -26997,7 +26997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001100000000",
@@ -27147,7 +27147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001100000100",
@@ -27297,7 +27297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001100001000",
@@ -27447,7 +27447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001100001100",
@@ -27597,7 +27597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001110000000",
@@ -27747,7 +27747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001110000100",
@@ -27897,7 +27897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001110001000",
@@ -28047,7 +28047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001110001100",
@@ -28197,7 +28197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001120000000",
@@ -28347,7 +28347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001120000100",
@@ -28497,7 +28497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001120001000",
@@ -28647,7 +28647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000001120001100",
@@ -28797,7 +28797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000000000",
@@ -28947,7 +28947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000000100",
@@ -29097,7 +29097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000001000",
@@ -29247,7 +29247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000001100",
@@ -29397,7 +29397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010000000",
@@ -29547,7 +29547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010000100",
@@ -29697,7 +29697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010001000",
@@ -29847,7 +29847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010001100",
@@ -29997,7 +29997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020000000",
@@ -30147,7 +30147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020000100",
@@ -30297,7 +30297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020001000",
@@ -30447,7 +30447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020001100",
@@ -30597,7 +30597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100000000",
@@ -30747,7 +30747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100000100",
@@ -30897,7 +30897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100001000",
@@ -31047,7 +31047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100001100",
@@ -31197,7 +31197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110000000",
@@ -31347,7 +31347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110000100",
@@ -31497,7 +31497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110001000",
@@ -31647,7 +31647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110001100",
@@ -31797,7 +31797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120000000",
@@ -31947,7 +31947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120000100",
@@ -32097,7 +32097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120001000",
@@ -32247,7 +32247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120001100",
@@ -32397,7 +32397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101000000000",
@@ -32547,7 +32547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101000000100",
@@ -32697,7 +32697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101000001000",
@@ -32847,7 +32847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101000001100",
@@ -32997,7 +32997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101010000000",
@@ -33147,7 +33147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101010000100",
@@ -33297,7 +33297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101010001000",
@@ -33447,7 +33447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101010001100",
@@ -33597,7 +33597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101020000000",
@@ -33747,7 +33747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101020000100",
@@ -33897,7 +33897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101020001000",
@@ -34047,7 +34047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101020001100",
@@ -34197,7 +34197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101100000000",
@@ -34347,7 +34347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101100000100",
@@ -34497,7 +34497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101100001000",
@@ -34647,7 +34647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101100001100",
@@ -34797,7 +34797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101110000000",
@@ -34947,7 +34947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101110000100",
@@ -35097,7 +35097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101110001000",
@@ -35247,7 +35247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101110001100",
@@ -35397,7 +35397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101120000000",
@@ -35547,7 +35547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101120000100",
@@ -35697,7 +35697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101120001000",
@@ -35847,7 +35847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000101120001100",
@@ -35997,7 +35997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000000000",
@@ -36147,7 +36147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000000100",
@@ -36297,7 +36297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000001000",
@@ -36447,7 +36447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000001100",
@@ -36597,7 +36597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010000000",
@@ -36747,7 +36747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010000100",
@@ -36897,7 +36897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010001000",
@@ -37047,7 +37047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010001100",
@@ -37197,7 +37197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020000000",
@@ -37347,7 +37347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020000100",
@@ -37497,7 +37497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020001000",
@@ -37647,7 +37647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020001100",
@@ -37797,7 +37797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100000000",
@@ -37947,7 +37947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100000100",
@@ -38097,7 +38097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100001000",
@@ -38247,7 +38247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100001100",
@@ -38397,7 +38397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110000000",
@@ -38547,7 +38547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110000100",
@@ -38697,7 +38697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110001000",
@@ -38847,7 +38847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110001100",
@@ -38997,7 +38997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120000000",
@@ -39147,7 +39147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120000100",
@@ -39297,7 +39297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120001000",
@@ -39447,7 +39447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120001100",
@@ -39597,7 +39597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201000000000",
@@ -39747,7 +39747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201000000100",
@@ -39897,7 +39897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201000001000",
@@ -40047,7 +40047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201000001100",
@@ -40197,7 +40197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201010000000",
@@ -40347,7 +40347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201010000100",
@@ -40497,7 +40497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201010001000",
@@ -40647,7 +40647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201010001100",
@@ -40797,7 +40797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201020000000",
@@ -40947,7 +40947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201020000100",
@@ -41097,7 +41097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201020001000",
@@ -41247,7 +41247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201020001100",
@@ -41397,7 +41397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201100000000",
@@ -41547,7 +41547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201100000100",
@@ -41697,7 +41697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201100001000",
@@ -41847,7 +41847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201100001100",
@@ -41997,7 +41997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201110000000",
@@ -42147,7 +42147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201110000100",
@@ -42297,7 +42297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201110001000",
@@ -42447,7 +42447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201110001100",
@@ -42597,7 +42597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201120000000",
@@ -42747,7 +42747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201120000100",
@@ -42897,7 +42897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201120001000",
@@ -43047,7 +43047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000201120001100",
@@ -43197,7 +43197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000000000",
@@ -43347,7 +43347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000000100",
@@ -43497,7 +43497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000001000",
@@ -43647,7 +43647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000001100",
@@ -43797,7 +43797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010000000",
@@ -43947,7 +43947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010000100",
@@ -44097,7 +44097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010001000",
@@ -44247,7 +44247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010001100",
@@ -44397,7 +44397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020000000",
@@ -44547,7 +44547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020000100",
@@ -44697,7 +44697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020001000",
@@ -44847,7 +44847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020001100",
@@ -44997,7 +44997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100000000",
@@ -45147,7 +45147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100000100",
@@ -45297,7 +45297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100001000",
@@ -45447,7 +45447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100001100",
@@ -45597,7 +45597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110000000",
@@ -45747,7 +45747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110000100",
@@ -45897,7 +45897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110001000",
@@ -46047,7 +46047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110001100",
@@ -46197,7 +46197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120000000",
@@ -46347,7 +46347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120000100",
@@ -46497,7 +46497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120001000",
@@ -46647,7 +46647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120001100",
@@ -46797,7 +46797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001000000000",
@@ -46947,7 +46947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001000000100",
@@ -47097,7 +47097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001000001000",
@@ -47247,7 +47247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001000001100",
@@ -47397,7 +47397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001010000000",
@@ -47547,7 +47547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001010000100",
@@ -47697,7 +47697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001010001000",
@@ -47847,7 +47847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001010001100",
@@ -47997,7 +47997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001020000000",
@@ -48147,7 +48147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001020000100",
@@ -48297,7 +48297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001020001000",
@@ -48447,7 +48447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001020001100",
@@ -48597,7 +48597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001100000000",
@@ -48747,7 +48747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001100000100",
@@ -48897,7 +48897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001100001000",
@@ -49047,7 +49047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001100001100",
@@ -49197,7 +49197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001110000000",
@@ -49347,7 +49347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001110000100",
@@ -49497,7 +49497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001110001000",
@@ -49647,7 +49647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001110001100",
@@ -49797,7 +49797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001120000000",
@@ -49947,7 +49947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001120000100",
@@ -50097,7 +50097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001120001000",
@@ -50247,7 +50247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000001120001100",
@@ -50397,7 +50397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000000000",
@@ -50547,7 +50547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000000100",
@@ -50697,7 +50697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000001000",
@@ -50847,7 +50847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000001100",
@@ -50997,7 +50997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010000000",
@@ -51147,7 +51147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010000100",
@@ -51297,7 +51297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010001000",
@@ -51447,7 +51447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010001100",
@@ -51597,7 +51597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020000000",
@@ -51747,7 +51747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020000100",
@@ -51897,7 +51897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020001000",
@@ -52047,7 +52047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020001100",
@@ -52197,7 +52197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100000000",
@@ -52347,7 +52347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100000100",
@@ -52497,7 +52497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100001000",
@@ -52647,7 +52647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100001100",
@@ -52797,7 +52797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110000000",
@@ -52947,7 +52947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110000100",
@@ -53097,7 +53097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110001000",
@@ -53247,7 +53247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110001100",
@@ -53397,7 +53397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120000000",
@@ -53547,7 +53547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120000100",
@@ -53697,7 +53697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120001000",
@@ -53847,7 +53847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120001100",
@@ -53997,7 +53997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101000000000",
@@ -54147,7 +54147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101000000100",
@@ -54297,7 +54297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101000001000",
@@ -54447,7 +54447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101000001100",
@@ -54597,7 +54597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101010000000",
@@ -54747,7 +54747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101010000100",
@@ -54897,7 +54897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101010001000",
@@ -55047,7 +55047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101010001100",
@@ -55197,7 +55197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101020000000",
@@ -55347,7 +55347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101020000100",
@@ -55497,7 +55497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101020001000",
@@ -55647,7 +55647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101020001100",
@@ -55797,7 +55797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101100000000",
@@ -55947,7 +55947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101100000100",
@@ -56097,7 +56097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101100001000",
@@ -56247,7 +56247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101100001100",
@@ -56397,7 +56397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101110000000",
@@ -56547,7 +56547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101110000100",
@@ -56697,7 +56697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101110001000",
@@ -56847,7 +56847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101110001100",
@@ -56997,7 +56997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101120000000",
@@ -57147,7 +57147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101120000100",
@@ -57297,7 +57297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101120001000",
@@ -57447,7 +57447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000101120001100",
@@ -57597,7 +57597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000000000",
@@ -57747,7 +57747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000000100",
@@ -57897,7 +57897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000001000",
@@ -58047,7 +58047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000001100",
@@ -58197,7 +58197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010000000",
@@ -58347,7 +58347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010000100",
@@ -58497,7 +58497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010001000",
@@ -58647,7 +58647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010001100",
@@ -58797,7 +58797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020000000",
@@ -58947,7 +58947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020000100",
@@ -59097,7 +59097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020001000",
@@ -59247,7 +59247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020001100",
@@ -59397,7 +59397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100000000",
@@ -59547,7 +59547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100000100",
@@ -59697,7 +59697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100001000",
@@ -59847,7 +59847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100001100",
@@ -59997,7 +59997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110000000",
@@ -60147,7 +60147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110000100",
@@ -60297,7 +60297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110001000",
@@ -60447,7 +60447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110001100",
@@ -60597,7 +60597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120000000",
@@ -60747,7 +60747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120000100",
@@ -60897,7 +60897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120001000",
@@ -61047,7 +61047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120001100",
@@ -61197,7 +61197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201000000000",
@@ -61347,7 +61347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201000000100",
@@ -61497,7 +61497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201000001000",
@@ -61647,7 +61647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201000001100",
@@ -61797,7 +61797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201010000000",
@@ -61947,7 +61947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201010000100",
@@ -62097,7 +62097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201010001000",
@@ -62247,7 +62247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201010001100",
@@ -62397,7 +62397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201020000000",
@@ -62547,7 +62547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201020000100",
@@ -62697,7 +62697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201020001000",
@@ -62847,7 +62847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201020001100",
@@ -62997,7 +62997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201100000000",
@@ -63147,7 +63147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201100000100",
@@ -63297,7 +63297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201100001000",
@@ -63447,7 +63447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201100001100",
@@ -63597,7 +63597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201110000000",
@@ -63747,7 +63747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201110000100",
@@ -63897,7 +63897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201110001000",
@@ -64047,7 +64047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201110001100",
@@ -64197,7 +64197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201120000000",
@@ -64347,7 +64347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201120000100",
@@ -64497,7 +64497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201120001000",
@@ -64647,7 +64647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000201120001100",
@@ -64797,7 +64797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000000010",
@@ -64947,7 +64947,7 @@
     "out:savings_maintenance(kr)": 0,
     "out:savings_energy(kr)": 0,
     "out:maintenance(kr)": 0,
-    "out:ExtraCost(kr)": 0
+    "out:extracost(kr)": 0
   },
   {
     "ID": "Z00000000000000110",
@@ -65097,7 +65097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000001010",
@@ -65247,7 +65247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000001110",
@@ -65397,7 +65397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010000010",
@@ -65547,7 +65547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010000110",
@@ -65697,7 +65697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010001010",
@@ -65847,7 +65847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010001110",
@@ -65997,7 +65997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020000010",
@@ -66147,7 +66147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020000110",
@@ -66297,7 +66297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020001010",
@@ -66447,7 +66447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020001110",
@@ -66597,7 +66597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100000010",
@@ -66747,7 +66747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100000110",
@@ -66897,7 +66897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100001010",
@@ -67047,7 +67047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100001110",
@@ -67197,7 +67197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110000010",
@@ -67347,7 +67347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110000110",
@@ -67497,7 +67497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110001010",
@@ -67647,7 +67647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110001110",
@@ -67797,7 +67797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120000010",
@@ -67947,7 +67947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120000110",
@@ -68097,7 +68097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120001010",
@@ -68247,7 +68247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120001110",
@@ -68397,7 +68397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000000010",
@@ -68547,7 +68547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000000110",
@@ -68697,7 +68697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000001010",
@@ -68847,7 +68847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000001110",
@@ -68997,7 +68997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010000010",
@@ -69147,7 +69147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010000110",
@@ -69297,7 +69297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010001010",
@@ -69447,7 +69447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010001110",
@@ -69597,7 +69597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020000010",
@@ -69747,7 +69747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020000110",
@@ -69897,7 +69897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020001010",
@@ -70047,7 +70047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020001110",
@@ -70197,7 +70197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100000010",
@@ -70347,7 +70347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100000110",
@@ -70497,7 +70497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100001010",
@@ -70647,7 +70647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100001110",
@@ -70797,7 +70797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110000010",
@@ -70947,7 +70947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110000110",
@@ -71097,7 +71097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110001010",
@@ -71247,7 +71247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110001110",
@@ -71397,7 +71397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120000010",
@@ -71547,7 +71547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120000110",
@@ -71697,7 +71697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120001010",
@@ -71847,7 +71847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120001110",
@@ -71997,7 +71997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000000010",
@@ -72147,7 +72147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000000110",
@@ -72297,7 +72297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000001010",
@@ -72447,7 +72447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000001110",
@@ -72597,7 +72597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010000010",
@@ -72747,7 +72747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010000110",
@@ -72897,7 +72897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010001010",
@@ -73047,7 +73047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010001110",
@@ -73197,7 +73197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020000010",
@@ -73347,7 +73347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020000110",
@@ -73497,7 +73497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020001010",
@@ -73647,7 +73647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020001110",
@@ -73797,7 +73797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100000010",
@@ -73947,7 +73947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100000110",
@@ -74097,7 +74097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100001010",
@@ -74247,7 +74247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100001110",
@@ -74397,7 +74397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110000010",
@@ -74547,7 +74547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110000110",
@@ -74697,7 +74697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110001010",
@@ -74847,7 +74847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110001110",
@@ -74997,7 +74997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120000010",
@@ -75147,7 +75147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120000110",
@@ -75297,7 +75297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120001010",
@@ -75447,7 +75447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120001110",
@@ -75597,7 +75597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000000010",
@@ -75747,7 +75747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000000110",
@@ -75897,7 +75897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000001010",
@@ -76047,7 +76047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000000001110",
@@ -76197,7 +76197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010000010",
@@ -76347,7 +76347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010000110",
@@ -76497,7 +76497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010001010",
@@ -76647,7 +76647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000010001110",
@@ -76797,7 +76797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020000010",
@@ -76947,7 +76947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020000110",
@@ -77097,7 +77097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020001010",
@@ -77247,7 +77247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000020001110",
@@ -77397,7 +77397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100000010",
@@ -77547,7 +77547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100000110",
@@ -77697,7 +77697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100001010",
@@ -77847,7 +77847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000100001110",
@@ -77997,7 +77997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110000010",
@@ -78147,7 +78147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110000110",
@@ -78297,7 +78297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110001010",
@@ -78447,7 +78447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000110001110",
@@ -78597,7 +78597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120000010",
@@ -78747,7 +78747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120000110",
@@ -78897,7 +78897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120001010",
@@ -79047,7 +79047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000000120001110",
@@ -79197,7 +79197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000000010",
@@ -79347,7 +79347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000000110",
@@ -79497,7 +79497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000001010",
@@ -79647,7 +79647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100000001110",
@@ -79797,7 +79797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010000010",
@@ -79947,7 +79947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010000110",
@@ -80097,7 +80097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010001010",
@@ -80247,7 +80247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100010001110",
@@ -80397,7 +80397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020000010",
@@ -80547,7 +80547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020000110",
@@ -80697,7 +80697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020001010",
@@ -80847,7 +80847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100020001110",
@@ -80997,7 +80997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100000010",
@@ -81147,7 +81147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100000110",
@@ -81297,7 +81297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100001010",
@@ -81447,7 +81447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100100001110",
@@ -81597,7 +81597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110000010",
@@ -81747,7 +81747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110000110",
@@ -81897,7 +81897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110001010",
@@ -82047,7 +82047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100110001110",
@@ -82197,7 +82197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120000010",
@@ -82347,7 +82347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120000110",
@@ -82497,7 +82497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120001010",
@@ -82647,7 +82647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000100120001110",
@@ -82797,7 +82797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000000010",
@@ -82947,7 +82947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000000110",
@@ -83097,7 +83097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000001010",
@@ -83247,7 +83247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200000001110",
@@ -83397,7 +83397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010000010",
@@ -83547,7 +83547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010000110",
@@ -83697,7 +83697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010001010",
@@ -83847,7 +83847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200010001110",
@@ -83997,7 +83997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020000010",
@@ -84147,7 +84147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020000110",
@@ -84297,7 +84297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020001010",
@@ -84447,7 +84447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200020001110",
@@ -84597,7 +84597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100000010",
@@ -84747,7 +84747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100000110",
@@ -84897,7 +84897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100001010",
@@ -85047,7 +85047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200100001110",
@@ -85197,7 +85197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110000010",
@@ -85347,7 +85347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110000110",
@@ -85497,7 +85497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110001010",
@@ -85647,7 +85647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200110001110",
@@ -85797,7 +85797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120000010",
@@ -85947,7 +85947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120000110",
@@ -86097,7 +86097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120001010",
@@ -86247,7 +86247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z01000200120001110",
@@ -86397,7 +86397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000000010",
@@ -86547,7 +86547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000000110",
@@ -86697,7 +86697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000001010",
@@ -86847,7 +86847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000000001110",
@@ -86997,7 +86997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010000010",
@@ -87147,7 +87147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010000110",
@@ -87297,7 +87297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010001010",
@@ -87447,7 +87447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000010001110",
@@ -87597,7 +87597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020000010",
@@ -87747,7 +87747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020000110",
@@ -87897,7 +87897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020001010",
@@ -88047,7 +88047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000020001110",
@@ -88197,7 +88197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100000010",
@@ -88347,7 +88347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100000110",
@@ -88497,7 +88497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100001010",
@@ -88647,7 +88647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000100001110",
@@ -88797,7 +88797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110000010",
@@ -88947,7 +88947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110000110",
@@ -89097,7 +89097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110001010",
@@ -89247,7 +89247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000110001110",
@@ -89397,7 +89397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120000010",
@@ -89547,7 +89547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120000110",
@@ -89697,7 +89697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120001010",
@@ -89847,7 +89847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000000120001110",
@@ -89997,7 +89997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000000010",
@@ -90147,7 +90147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000000110",
@@ -90297,7 +90297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000001010",
@@ -90447,7 +90447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100000001110",
@@ -90597,7 +90597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010000010",
@@ -90747,7 +90747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010000110",
@@ -90897,7 +90897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010001010",
@@ -91047,7 +91047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100010001110",
@@ -91197,7 +91197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020000010",
@@ -91347,7 +91347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020000110",
@@ -91497,7 +91497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020001010",
@@ -91647,7 +91647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100020001110",
@@ -91797,7 +91797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100000010",
@@ -91947,7 +91947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100000110",
@@ -92097,7 +92097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100001010",
@@ -92247,7 +92247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100100001110",
@@ -92397,7 +92397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110000010",
@@ -92547,7 +92547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110000110",
@@ -92697,7 +92697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110001010",
@@ -92847,7 +92847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100110001110",
@@ -92997,7 +92997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120000010",
@@ -93147,7 +93147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120000110",
@@ -93297,7 +93297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120001010",
@@ -93447,7 +93447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000100120001110",
@@ -93597,7 +93597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000000010",
@@ -93747,7 +93747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000000110",
@@ -93897,7 +93897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000001010",
@@ -94047,7 +94047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200000001110",
@@ -94197,7 +94197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010000010",
@@ -94347,7 +94347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010000110",
@@ -94497,7 +94497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010001010",
@@ -94647,7 +94647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200010001110",
@@ -94797,7 +94797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020000010",
@@ -94947,7 +94947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020000110",
@@ -95097,7 +95097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020001010",
@@ -95247,7 +95247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200020001110",
@@ -95397,7 +95397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100000010",
@@ -95547,7 +95547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100000110",
@@ -95697,7 +95697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100001010",
@@ -95847,7 +95847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200100001110",
@@ -95997,7 +95997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110000010",
@@ -96147,7 +96147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110000110",
@@ -96297,7 +96297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110001010",
@@ -96447,7 +96447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200110001110",
@@ -96597,7 +96597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120000010",
@@ -96747,7 +96747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120000110",
@@ -96897,7 +96897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120001010",
@@ -97047,7 +97047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z02000200120001110",
@@ -97197,7 +97197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000000001",
@@ -97347,7 +97347,7 @@
     "out:savings_maintenance(kr)": 0,
     "out:savings_energy(kr)": 0,
     "out:maintenance(kr)": 0,
-    "out:ExtraCost(kr)": 0
+    "out:extracost(kr)": 0
   },
   {
     "ID": "Z00000000000000101",
@@ -97497,7 +97497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000001001",
@@ -97647,7 +97647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000000001101",
@@ -97797,7 +97797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010000001",
@@ -97947,7 +97947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010000101",
@@ -98097,7 +98097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010001001",
@@ -98247,7 +98247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000010001101",
@@ -98397,7 +98397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020000001",
@@ -98547,7 +98547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020000101",
@@ -98697,7 +98697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020001001",
@@ -98847,7 +98847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000020001101",
@@ -98997,7 +98997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100000001",
@@ -99147,7 +99147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100000101",
@@ -99297,7 +99297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100001001",
@@ -99447,7 +99447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000100001101",
@@ -99597,7 +99597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110000001",
@@ -99747,7 +99747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110000101",
@@ -99897,7 +99897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110001001",
@@ -100047,7 +100047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000110001101",
@@ -100197,7 +100197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120000001",
@@ -100347,7 +100347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120000101",
@@ -100497,7 +100497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120001001",
@@ -100647,7 +100647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000000120001101",
@@ -100797,7 +100797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000000001",
@@ -100947,7 +100947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000000101",
@@ -101097,7 +101097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000001001",
@@ -101247,7 +101247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100000001101",
@@ -101397,7 +101397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010000001",
@@ -101547,7 +101547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010000101",
@@ -101697,7 +101697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010001001",
@@ -101847,7 +101847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100010001101",
@@ -101997,7 +101997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020000001",
@@ -102147,7 +102147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020000101",
@@ -102297,7 +102297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020001001",
@@ -102447,7 +102447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100020001101",
@@ -102597,7 +102597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100000001",
@@ -102747,7 +102747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100000101",
@@ -102897,7 +102897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100001001",
@@ -103047,7 +103047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100100001101",
@@ -103197,7 +103197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110000001",
@@ -103347,7 +103347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110000101",
@@ -103497,7 +103497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110001001",
@@ -103647,7 +103647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100110001101",
@@ -103797,7 +103797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120000001",
@@ -103947,7 +103947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120000101",
@@ -104097,7 +104097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120001001",
@@ -104247,7 +104247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000100120001101",
@@ -104397,7 +104397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000000001",
@@ -104547,7 +104547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000000101",
@@ -104697,7 +104697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000001001",
@@ -104847,7 +104847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200000001101",
@@ -104997,7 +104997,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010000001",
@@ -105147,7 +105147,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010000101",
@@ -105297,7 +105297,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010001001",
@@ -105447,7 +105447,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200010001101",
@@ -105597,7 +105597,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020000001",
@@ -105747,7 +105747,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020000101",
@@ -105897,7 +105897,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020001001",
@@ -106047,7 +106047,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200020001101",
@@ -106197,7 +106197,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100000001",
@@ -106347,7 +106347,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100000101",
@@ -106497,7 +106497,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100001001",
@@ -106647,7 +106647,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200100001101",
@@ -106797,7 +106797,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110000001",
@@ -106947,7 +106947,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110000101",
@@ -107097,7 +107097,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110001001",
@@ -107247,7 +107247,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200110001101",
@@ -107397,7 +107397,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120000001",
@@ -107547,7 +107547,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120000101",
@@ -107697,7 +107697,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120001001",
@@ -107847,7 +107847,7 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   },
   {
     "ID": "Z00000200120001101",
@@ -107997,6 +107997,6 @@
     "out:savings_maintenance(kr)": "",
     "out:savings_energy(kr)": "",
     "out:maintenance(kr)": "",
-    "out:ExtraCost(kr)": ""
+    "out:extracost(kr)": ""
   }
 ]
