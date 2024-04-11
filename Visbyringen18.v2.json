@@ -1340,14 +1340,14 @@
     "out:maintenance description2": -999,
     "out:investment cost (exclude maintenance)": 925810.6498,
     "out:ROI% (exclude maintenance cost)": 5.794834,
-    "out:maintenance year": "2028",
-    "out:maintenance description": "Takbyte",
-    "out:ROI(maintenance)": "0",
-    "out:ROI(energy)": "6",
-    "out:savings_maintenance(kr)": "0",
-    "out:savings_energy(kr)": "53649",
-    "out:maintenance(kr)": "997000",
-    "out:extracost(kr)": "925811"
+    "out:maintenance year": 2028,
+    "out:maintenance description": Takbyte,
+    "out:ROI(maintenance)": 0,
+    "out:ROI(energy)": 6,
+    "out:savings_maintenance(kr)": 0,
+    "out:savings_energy(kr)": 53649,
+    "out:maintenance(kr)": 997000,
+    "out:extracost(kr)": 925811
   },
   {
     "ID": "Z00000000020000100",
@@ -43342,12 +43342,12 @@
     "out:ROI% (exclude maintenance cost)": 5.532267,
     "out:maintenance year": "2047",
     "out:maintenance description": "Omputsning",
-    "out:ROI(maintenance)": "0",
-    "out:ROI(energy)": "4",
-    "out:savings_maintenance(kr)": "0",
-    "out:savings_energy(kr)": "55287",
-    "out:maintenance(kr)": "5779000",
-    "out:extracost(kr)": "1420250"
+    "out:ROI(maintenance)": 0,
+    "out:ROI(energy)": 4,
+    "out:savings_maintenance(kr)": 0,
+    "out:savings_energy(kr)": 55287,
+    "out:maintenance(kr)": 5779000,
+    "out:extracost(kr)": 1420250
   },
   {
     "ID": "Z02000000000000100",
