@@ -136,10 +136,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -999,
-    "out:ROI% (exclude maintenance cost)": 0
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000000000100",
@@ -278,10 +277,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 10687.50303,
-    "out:ROI% (exclude maintenance cost)": 69.738864
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000000001000",
@@ -420,10 +418,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 113840,
-    "out:ROI% (exclude maintenance cost)": 5.678376
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000000001100",
@@ -562,10 +559,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 124527.503,
-    "out:ROI% (exclude maintenance cost)": 11.176332
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000010000000",
@@ -704,10 +700,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 355698.6821,
-    "out:ROI% (exclude maintenance cost)": 8.834823
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000010000100",
@@ -846,10 +841,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 366386.1851,
-    "out:ROI% (exclude maintenance cost)": 10.611397
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000010001000",
@@ -988,10 +982,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 469538.6821,
-    "out:ROI% (exclude maintenance cost)": 8.06954
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000010001100",
@@ -1130,10 +1123,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 480226.1851,
-    "out:ROI% (exclude maintenance cost)": 9.442
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000020000000",
@@ -1272,10 +1264,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 711397.3642,
-    "out:ROI% (exclude maintenance cost)": 8.484991
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000020000100",
@@ -1414,10 +1405,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 722084.8673,
-    "out:ROI% (exclude maintenance cost)": 9.391603
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000020001000",
@@ -1556,10 +1546,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 825237.3642,
-    "out:ROI% (exclude maintenance cost)": 8.097824
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000020001100",
@@ -1698,10 +1687,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 835924.8673,
-    "out:ROI% (exclude maintenance cost)": 8.88592
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000100000000",
@@ -1840,10 +1828,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 47507.625,
-    "out:ROI% (exclude maintenance cost)": 18.142389
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000100000100",
@@ -1982,10 +1969,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 58195.12803,
-    "out:ROI% (exclude maintenance cost)": 27.618053
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000100001000",
@@ -2124,10 +2110,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 161347.625,
-    "out:ROI% (exclude maintenance cost)": 8.547029
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000100001100",
@@ -2266,10 +2251,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 172035.128,
-    "out:ROI% (exclude maintenance cost)": 12.348508
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000110000000",
@@ -2408,10 +2392,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 403206.3071,
-    "out:ROI% (exclude maintenance cost)": 9.931483
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000110000100",
@@ -2550,10 +2533,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 413893.8101,
-    "out:ROI% (exclude maintenance cost)": 11.47582
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000110001000",
@@ -2692,10 +2674,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 517046.3071,
-    "out:ROI% (exclude maintenance cost)": 8.745015
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000110001100",
@@ -2834,10 +2815,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 527733.8101,
-    "out:ROI% (exclude maintenance cost)": 9.980244
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000120000000",
@@ -2976,10 +2956,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 758904.9892,
-    "out:ROI% (exclude maintenance cost)": 9.089547
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000120000100",
@@ -3118,10 +3097,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 769592.4923,
-    "out:ROI% (exclude maintenance cost)": 9.931797
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000120001000",
@@ -3260,10 +3238,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 872744.9892,
-    "out:ROI% (exclude maintenance cost)": 8.49646
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000000120001100",
@@ -3402,10 +3379,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 883432.4923,
-    "out:ROI% (exclude maintenance cost)": 9.237353
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001000000000",
@@ -3544,10 +3520,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 366065.9926,
-    "out:ROI% (exclude maintenance cost)": 9.369489
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001000000100",
@@ -3686,10 +3661,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 376753.4957,
-    "out:ROI% (exclude maintenance cost)": 11.065699
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001000001000",
@@ -3828,10 +3802,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 479905.9926,
-    "out:ROI% (exclude maintenance cost)": 8.274305
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001000001100",
@@ -3970,10 +3943,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 490593.4957,
-    "out:ROI% (exclude maintenance cost)": 9.598919
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001010000000",
@@ -4112,10 +4084,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 721764.6748,
-    "out:ROI% (exclude maintenance cost)": 9.518021
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001010000100",
@@ -4254,10 +4225,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 732452.1778,
-    "out:ROI% (exclude maintenance cost)": 10.387945
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001010001000",
@@ -4396,10 +4366,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 835604.6748,
-    "out:ROI% (exclude maintenance cost)": 8.862887
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001010001100",
@@ -4538,10 +4507,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 846292.1778,
-    "out:ROI% (exclude maintenance cost)": 9.622938
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001020000000",
@@ -4680,10 +4648,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1080000,
-    "out:ROI% (exclude maintenance cost)": 9.154567
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001020000100",
@@ -4822,10 +4789,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1090000,
-    "out:ROI% (exclude maintenance cost)": 9.743576
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001020001000",
@@ -4964,10 +4930,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1190000,
-    "out:ROI% (exclude maintenance cost)": 8.727878
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001020001100",
@@ -5106,10 +5071,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1200000,
-    "out:ROI% (exclude maintenance cost)": 9.264086
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001100000000",
@@ -5248,10 +5212,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 413573.6176,
-    "out:ROI% (exclude maintenance cost)": 10.036061
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001100000100",
@@ -5390,10 +5353,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 424261.1207,
-    "out:ROI% (exclude maintenance cost)": 11.522895
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001100001000",
@@ -5532,10 +5494,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 527413.6176,
-    "out:ROI% (exclude maintenance cost)": 8.68612
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001100001100",
@@ -5674,10 +5635,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 538101.1207,
-    "out:ROI% (exclude maintenance cost)": 9.883666
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001110000000",
@@ -5816,10 +5776,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 769272.2998,
-    "out:ROI% (exclude maintenance cost)": 9.858606
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001110000100",
@@ -5958,10 +5917,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 779959.8028,
-    "out:ROI% (exclude maintenance cost)": 10.669365
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001110001000",
@@ -6100,10 +6058,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 883112.2998,
-    "out:ROI% (exclude maintenance cost)": 9.07063
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001110001100",
@@ -6242,10 +6199,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 893799.8028,
-    "out:ROI% (exclude maintenance cost)": 9.78657
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001120000000",
@@ -6384,10 +6340,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1130000,
-    "out:ROI% (exclude maintenance cost)": 9.400119
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001120000100",
@@ -6526,10 +6481,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1140000,
-    "out:ROI% (exclude maintenance cost)": 9.961118
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001120001000",
@@ -6668,10 +6622,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1240000,
-    "out:ROI% (exclude maintenance cost)": 8.879018
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000001120001100",
@@ -6810,10 +6763,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1250000,
-    "out:ROI% (exclude maintenance cost)": 9.392648
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200000000000",
@@ -6952,10 +6904,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -999,
-    "out:ROI% (exclude maintenance cost)": 0
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200000000100",
@@ -7094,10 +7045,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -912959.77,
-    "out:ROI% (exclude maintenance cost)": -2.510322
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200000001000",
@@ -7236,10 +7186,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -809807.273,
-    "out:ROI% (exclude maintenance cost)": -2.798885
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200000001100",
@@ -7378,10 +7327,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -799119.77,
-    "out:ROI% (exclude maintenance cost)": -3.676857
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200010000000",
@@ -7520,10 +7468,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -567948.5909,
-    "out:ROI% (exclude maintenance cost)": -8.385734
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200010000100",
@@ -7662,10 +7609,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -557261.0879,
-    "out:ROI% (exclude maintenance cost)": -9.751906
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200010001000",
@@ -7804,10 +7750,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -454108.5909,
-    "out:ROI% (exclude maintenance cost)": -11.91145
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200010001100",
@@ -7946,10 +7891,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -443421.0879,
-    "out:ROI% (exclude maintenance cost)": -13.71334
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200020000000",
@@ -8088,10 +8032,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -212249.9088,
-    "out:ROI% (exclude maintenance cost)": -36.072247
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200020000100",
@@ -8230,10 +8173,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -201562.4058,
-    "out:ROI% (exclude maintenance cost)": -41.317344
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200020001000",
@@ -8372,10 +8314,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -98409.90879,
-    "out:ROI% (exclude maintenance cost)": -84.369121
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200020001100",
@@ -8514,10 +8455,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -87722.40576,
-    "out:ROI% (exclude maintenance cost)": -102.305101
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200100000000",
@@ -8656,10 +8596,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -876139.648,
-    "out:ROI% (exclude maintenance cost)": -2.832919
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200100000100",
@@ -8798,10 +8737,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -865452.145,
-    "out:ROI% (exclude maintenance cost)": -3.64402
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200100001000",
@@ -8940,10 +8878,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -762299.648,
-    "out:ROI% (exclude maintenance cost)": -3.934376
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200100001100",
@@ -9082,10 +9019,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -751612.145,
-    "out:ROI% (exclude maintenance cost)": -4.883989
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200110000000",
@@ -9224,10 +9160,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -520440.9659,
-    "out:ROI% (exclude maintenance cost)": -10.807311
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200110000100",
@@ -9366,10 +9301,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -509753.4629,
-    "out:ROI% (exclude maintenance cost)": -12.351578
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200110001000",
@@ -9508,10 +9442,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -406600.9659,
-    "out:ROI% (exclude maintenance cost)": -15.105002
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200110001100",
@@ -9650,10 +9583,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -395913.4629,
-    "out:ROI% (exclude maintenance cost)": -17.209318
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200120000000",
@@ -9792,10 +9724,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -164742.2838,
-    "out:ROI% (exclude maintenance cost)": -51.706416
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200120000100",
@@ -9934,10 +9865,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -154054.7808,
-    "out:ROI% (exclude maintenance cost)": -59.653618
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200120001000",
@@ -10076,10 +10006,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -50902.28379,
-    "out:ROI% (exclude maintenance cost)": -177.504297
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000200120001100",
@@ -10218,10 +10147,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -40214.78076,
-    "out:ROI% (exclude maintenance cost)": -241.380555
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201000000000",
@@ -10360,10 +10288,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -557581.2804,
-    "out:ROI% (exclude maintenance cost)": -9.026712
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201000000100",
@@ -10502,10 +10429,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -546893.7773,
-    "out:ROI% (exclude maintenance cost)": -10.419634
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201000001000",
@@ -10644,10 +10570,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -443741.2804,
-    "out:ROI% (exclude maintenance cost)": -12.553988
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201000001100",
@@ -10786,10 +10711,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -433053.7773,
-    "out:ROI% (exclude maintenance cost)": -14.397909
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201010000000",
@@ -10928,10 +10852,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -201882.5983,
-    "out:ROI% (exclude maintenance cost)": -41.966257
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201010000100",
@@ -11070,10 +10993,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -191195.0952,
-    "out:ROI% (exclude maintenance cost)": -47.790273
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201010001000",
@@ -11212,10 +11134,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -88042.59826,
-    "out:ROI% (exclude maintenance cost)": -102.277199
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201010001100",
@@ -11354,10 +11275,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -77355.09523,
-    "out:ROI% (exclude maintenance cost)": -124.991787
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201020000000",
@@ -11496,10 +11416,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 153816.0839,
-    "out:ROI% (exclude maintenance cost)": 74.542504
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201020000100",
@@ -11638,10 +11557,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 164503.5869,
-    "out:ROI% (exclude maintenance cost)": 73.7413
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201020001000",
@@ -11780,10 +11698,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 267656.0839,
-    "out:ROI% (exclude maintenance cost)": 44.818684
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201020001100",
@@ -11922,10 +11839,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 278343.5869,
-    "out:ROI% (exclude maintenance cost)": 45.482763
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201100000000",
@@ -12064,10 +11980,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -510073.6554,
-    "out:ROI% (exclude maintenance cost)": -11.271499
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201100000100",
@@ -12206,10 +12121,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -499386.1523,
-    "out:ROI% (exclude maintenance cost)": -12.842156
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201100001000",
@@ -12348,10 +12262,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -396233.6554,
-    "out:ROI% (exclude maintenance cost)": -15.587171
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201100001100",
@@ -12490,10 +12403,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -385546.1523,
-    "out:ROI% (exclude maintenance cost)": -17.738114
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201110000000",
@@ -12632,10 +12544,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -154374.9733,
-    "out:ROI% (exclude maintenance cost)": -59.47585
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201110000100",
@@ -12774,10 +12685,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -143687.4702,
-    "out:ROI% (exclude maintenance cost)": -68.517558
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201110001000",
@@ -12916,10 +12826,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -40534.97326,
-    "out:ROI% (exclude maintenance cost)": -236.935562
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201110001100",
@@ -13058,10 +12967,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -29847.47023,
-    "out:ROI% (exclude maintenance cost)": -343.963833
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201120000000",
@@ -13200,10 +13108,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 201323.7089,
-    "out:ROI% (exclude maintenance cost)": 60.459988
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201120000100",
@@ -13342,10 +13249,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 212011.2119,
-    "out:ROI% (exclude maintenance cost)": 60.541104
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201120001000",
@@ -13484,10 +13390,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 315163.7089,
-    "out:ROI% (exclude maintenance cost)": 39.955972
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00000201120001100",
@@ -13626,10 +13531,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.152698,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.10643,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 325851.2119,
-    "out:ROI% (exclude maintenance cost)": 40.677308
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000000000000",
@@ -13768,10 +13672,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 147840.2293,
-    "out:ROI% (exclude maintenance cost)": 10.972817
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000000000100",
@@ -13910,10 +13813,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 158527.7324,
-    "out:ROI% (exclude maintenance cost)": 14.469523
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000000001000",
@@ -14052,10 +13954,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 261680.2293,
-    "out:ROI% (exclude maintenance cost)": 8.669551
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000000001100",
@@ -14194,10 +14095,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 272367.7324,
-    "out:ROI% (exclude maintenance cost)": 10.795137
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000010000000",
@@ -14336,10 +14236,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 503538.9115,
-    "out:ROI% (exclude maintenance cost)": 9.462543
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000010000100",
@@ -14478,10 +14377,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 514226.4145,
-    "out:ROI% (exclude maintenance cost)": 10.57191
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000010001000",
@@ -14620,10 +14518,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 617378.9115,
-    "out:ROI% (exclude maintenance cost)": 8.764771
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000010001100",
@@ -14762,10 +14659,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 628066.4145,
-    "out:ROI% (exclude maintenance cost)": 9.684934
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000020000000",
@@ -14904,10 +14800,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 859237.5936,
-    "out:ROI% (exclude maintenance cost)": 8.913046
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000020000100",
@@ -15046,10 +14941,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 869925.0966,
-    "out:ROI% (exclude maintenance cost)": 9.575561
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000020001000",
@@ -15188,10 +15082,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 973077.5936,
-    "out:ROI% (exclude maintenance cost)": 8.534623
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000020001100",
@@ -15330,10 +15223,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 983765.0966,
-    "out:ROI% (exclude maintenance cost)": 9.124584
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000100000000",
@@ -15472,10 +15364,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 195347.8543,
-    "out:ROI% (exclude maintenance cost)": 12.716421
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000100000100",
@@ -15614,10 +15505,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 206035.3574,
-    "out:ROI% (exclude maintenance cost)": 15.316412
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000100001000",
@@ -15756,10 +15646,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 309187.8543,
-    "out:ROI% (exclude maintenance cost)": 9.706936
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000100001100",
@@ -15898,10 +15787,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 319875.3574,
-    "out:ROI% (exclude maintenance cost)": 11.482171
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000110000000",
@@ -16040,10 +15928,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 551046.5365,
-    "out:ROI% (exclude maintenance cost)": 10.210863
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000110000100",
@@ -16182,10 +16069,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 561734.0395,
-    "out:ROI% (exclude maintenance cost)": 11.21217
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000110001000",
@@ -16324,10 +16210,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 664886.5365,
-    "out:ROI% (exclude maintenance cost)": 9.240376
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000110001100",
@@ -16466,10 +16351,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 675574.0395,
-    "out:ROI% (exclude maintenance cost)": 10.088307
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000120000000",
@@ -16608,10 +16492,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 906745.2186,
-    "out:ROI% (exclude maintenance cost)": 9.396604
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000120000100",
@@ -16750,10 +16633,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 917432.7216,
-    "out:ROI% (exclude maintenance cost)": 10.019179
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000120001000",
@@ -16892,10 +16774,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1020000,
-    "out:ROI% (exclude maintenance cost)": 8.855181
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002000120001100",
@@ -17034,10 +16915,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1030000,
-    "out:ROI% (exclude maintenance cost)": 9.414642
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001000000000",
@@ -17176,10 +17056,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 513906.222,
-    "out:ROI% (exclude maintenance cost)": 9.787401
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001000000100",
@@ -17318,10 +17197,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 524593.725,
-    "out:ROI% (exclude maintenance cost)": 10.856228
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001000001000",
@@ -17460,10 +17338,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 627746.222,
-    "out:ROI% (exclude maintenance cost)": 8.868355
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001000001100",
@@ -17602,10 +17479,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 638433.725,
-    "out:ROI% (exclude maintenance cost)": 9.760614
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001010000000",
@@ -17744,10 +17620,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 869604.9041,
-    "out:ROI% (exclude maintenance cost)": 9.738543
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001010000100",
@@ -17886,10 +17761,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 880292.4071,
-    "out:ROI% (exclude maintenance cost)": 10.375749
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001010001000",
@@ -18028,10 +17902,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 983444.9041,
-    "out:ROI% (exclude maintenance cost)": 9.152352
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001010001100",
@@ -18170,10 +18043,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 994132.4071,
-    "out:ROI% (exclude maintenance cost)": 9.72197
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001020000000",
@@ -18312,10 +18184,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1230000,
-    "out:ROI% (exclude maintenance cost)": 9.354537
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001020000100",
@@ -18454,10 +18325,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1240000,
-    "out:ROI% (exclude maintenance cost)": 9.811577
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001020001000",
@@ -18596,10 +18466,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1340000,
-    "out:ROI% (exclude maintenance cost)": 8.954942
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001020001100",
@@ -18738,10 +18607,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1350000,
-    "out:ROI% (exclude maintenance cost)": 9.375906
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001100000000",
@@ -18880,10 +18748,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 561413.847,
-    "out:ROI% (exclude maintenance cost)": 10.23411
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001100000100",
@@ -19022,10 +18889,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 572101.35,
-    "out:ROI% (exclude maintenance cost)": 11.203482
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001100001000",
@@ -19164,10 +19030,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 675253.847,
-    "out:ROI% (exclude maintenance cost)": 9.140865
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001100001100",
@@ -19306,10 +19171,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 685941.35,
-    "out:ROI% (exclude maintenance cost)": 9.965145
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001110000000",
@@ -19448,10 +19312,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 917112.5291,
-    "out:ROI% (exclude maintenance cost)": 10.007043
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001110000100",
@@ -19590,10 +19453,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 927800.0321,
-    "out:ROI% (exclude maintenance cost)": 10.607004
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001110001000",
@@ -19732,10 +19594,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1030000,
-    "out:ROI% (exclude maintenance cost)": 9.311915
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001110001100",
@@ -19874,10 +19735,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1040000,
-    "out:ROI% (exclude maintenance cost)": 9.852578
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001120000000",
@@ -20016,10 +19876,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1270000,
-    "out:ROI% (exclude maintenance cost)": 9.559866
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001120000100",
@@ -20158,10 +20017,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1280000,
-    "out:ROI% (exclude maintenance cost)": 9.997155
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001120001000",
@@ -20300,10 +20158,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1390000,
-    "out:ROI% (exclude maintenance cost)": 9.078354
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002001120001100",
@@ -20442,10 +20299,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.083047,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.323496,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 1400000,
-    "out:ROI% (exclude maintenance cost)": 9.483043
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200000000000",
@@ -20584,10 +20440,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -775807.0437,
-    "out:ROI% (exclude maintenance cost)": -4.227113
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200000000100",
@@ -20726,10 +20581,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -765119.5406,
-    "out:ROI% (exclude maintenance cost)": -5.065475
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200000001000",
@@ -20868,10 +20722,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -661967.0437,
-    "out:ROI% (exclude maintenance cost)": -5.930583
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200000001100",
@@ -21010,10 +20863,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -651279.5406,
-    "out:ROI% (exclude maintenance cost)": -6.94344
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200010000000",
@@ -21152,10 +21004,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -420108.3616,
-    "out:ROI% (exclude maintenance cost)": -15.286435
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200010000100",
@@ -21294,10 +21145,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -409420.8585,
-    "out:ROI% (exclude maintenance cost)": -17.141845
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200010001000",
@@ -21436,10 +21286,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -306268.3616,
-    "out:ROI% (exclude maintenance cost)": -23.079059
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200010001100",
@@ -21578,10 +21427,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -295580.8585,
-    "out:ROI% (exclude maintenance cost)": -25.930824
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200020000000",
@@ -21720,10 +21568,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -64409.67944,
-    "out:ROI% (exclude maintenance cost)": -144.63082
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200020000100",
@@ -21862,10 +21709,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -53722.17641,
-    "out:ROI% (exclude maintenance cost)": -184.502844
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200020001000",
@@ -22004,10 +21850,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 49430.32056,
-    "out:ROI% (exclude maintenance cost)": 201.537255
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200020001100",
@@ -22146,10 +21991,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 60117.82359,
-    "out:ROI% (exclude maintenance cost)": 175.627128
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200100000000",
@@ -22288,10 +22132,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -728299.4187,
-    "out:ROI% (exclude maintenance cost)": -5.686296
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200100000100",
@@ -22430,10 +22273,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -717611.9156,
-    "out:ROI% (exclude maintenance cost)": -6.601891
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200100001000",
@@ -22572,10 +22414,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -614459.4187,
-    "out:ROI% (exclude maintenance cost)": -7.581408
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200100001100",
@@ -22714,10 +22555,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -603771.9156,
-    "out:ROI% (exclude maintenance cost)": -8.703182
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200110000000",
@@ -22856,10 +22696,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -372600.7366,
-    "out:ROI% (exclude maintenance cost)": -19.548703
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200110000100",
@@ -22998,10 +22837,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -361913.2335,
-    "out:ROI% (exclude maintenance cost)": -21.773535
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200110001000",
@@ -23140,10 +22978,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -258760.7366,
-    "out:ROI% (exclude maintenance cost)": -30.14755
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200110001100",
@@ -23282,10 +23119,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -248073.2335,
-    "out:ROI% (exclude maintenance cost)": -33.849971
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200120000000",
@@ -23424,10 +23260,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -16902.05444,
-    "out:ROI% (exclude maintenance cost)": -602.147308
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200120000100",
@@ -23566,10 +23401,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -6214.551412,
-    "out:ROI% (exclude maintenance cost)": -1733.640201
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200120001000",
@@ -23708,10 +23542,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 96937.94556,
-    "out:ROI% (exclude maintenance cost)": 110.324885
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002200120001100",
@@ -23850,10 +23683,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 107625.4486,
-    "out:ROI% (exclude maintenance cost)": 104.909549
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201000000000",
@@ -23992,10 +23824,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -409741.051,
-    "out:ROI% (exclude maintenance cost)": -16.270733
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201000000100",
@@ -24134,10 +23965,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -399053.548,
-    "out:ROI% (exclude maintenance cost)": -18.183684
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201000001000",
@@ -24276,10 +24106,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -295901.051,
-    "out:ROI% (exclude maintenance cost)": -24.328474
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201000001100",
@@ -24418,10 +24247,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -285213.548,
-    "out:ROI% (exclude maintenance cost)": -27.302608
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201010000000",
@@ -24560,10 +24388,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -54042.36891,
-    "out:ROI% (exclude maintenance cost)": -186.977721
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201010000100",
@@ -24702,10 +24529,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -43354.86588,
-    "out:ROI% (exclude maintenance cost)": -246.659217
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201010001000",
@@ -24844,10 +24670,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 59797.63109,
-    "out:ROI% (exclude maintenance cost)": 177.789294
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201010001100",
@@ -24986,10 +24811,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 70485.13412,
-    "out:ROI% (exclude maintenance cost)": 159.171897
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201020000000",
@@ -25128,10 +24952,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 301656.3132,
-    "out:ROI% (exclude maintenance cost)": 43.419448
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201020000100",
@@ -25270,10 +25093,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 312343.8162,
-    "out:ROI% (exclude maintenance cost)": 43.819544
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201020001000",
@@ -25412,10 +25234,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 415496.3132,
-    "out:ROI% (exclude maintenance cost)": 32.784763
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201020001100",
@@ -25554,10 +25375,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 426183.8162,
-    "out:ROI% (exclude maintenance cost)": 33.341597
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201100000000",
@@ -25696,10 +25516,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -362233.426,
-    "out:ROI% (exclude maintenance cost)": -20.360735
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201100000100",
@@ -25838,10 +25657,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -351545.923,
-    "out:ROI% (exclude maintenance cost)": -22.651923
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201100001000",
@@ -25980,10 +25798,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -248393.426,
-    "out:ROI% (exclude maintenance cost)": -31.392125
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201100001100",
@@ -26122,10 +25939,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -237705.923,
-    "out:ROI% (exclude maintenance cost)": -35.272714
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201110000000",
@@ -26264,10 +26080,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -6534.74391,
-    "out:ROI% (exclude maintenance cost)": -1653.630951
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201110000100",
@@ -26406,10 +26221,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 4152.759118,
-    "out:ROI% (exclude maintenance cost)": 2743.599695
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201110001000",
@@ -26548,10 +26362,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 107305.2561,
-    "out:ROI% (exclude maintenance cost)": 104.597063
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201110001100",
@@ -26690,10 +26503,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 117992.7591,
-    "out:ROI% (exclude maintenance cost)": 100.093484
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201120000000",
@@ -26832,10 +26644,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 349163.9382,
-    "out:ROI% (exclude maintenance cost)": 39.510907
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201120000100",
@@ -26974,10 +26785,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 359851.4412,
-    "out:ROI% (exclude maintenance cost)": 39.969428
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201120001000",
@@ -27116,10 +26926,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 463003.9382,
-    "out:ROI% (exclude maintenance cost)": 30.694093
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z00002201120001100",
@@ -27258,10 +27067,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.235746,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.429926,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 473691.4412,
-    "out:ROI% (exclude maintenance cost)": 31.239269
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000000000000",
@@ -27400,10 +27208,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -798876.1487,
-    "out:ROI% (exclude maintenance cost)": -1.281432
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000000000100",
@@ -27542,10 +27349,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -788188.6457,
-    "out:ROI% (exclude maintenance cost)": -2.1854
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000000001000",
@@ -27684,10 +27490,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -685036.1487,
-    "out:ROI% (exclude maintenance cost)": -2.43802
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000000001100",
@@ -27826,10 +27631,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -674348.6457,
-    "out:ROI% (exclude maintenance cost)": -3.512921
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000010000000",
@@ -27968,10 +27772,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -443177.4666,
-    "out:ROI% (exclude maintenance cost)": -9.400839
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000010000100",
@@ -28110,10 +27913,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -432489.9636,
-    "out:ROI% (exclude maintenance cost)": -11.248914
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000010001000",
@@ -28252,10 +28054,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -329337.4666,
-    "out:ROI% (exclude maintenance cost)": -14.613176
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000010001100",
@@ -28394,10 +28195,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -318649.9636,
-    "out:ROI% (exclude maintenance cost)": -17.29631
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000020000000",
@@ -28536,10 +28336,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -87478.7845,
-    "out:ROI% (exclude maintenance cost)": -80.704203
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000020000100",
@@ -28678,10 +28477,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -76791.28147,
-    "out:ROI% (exclude maintenance cost)": -101.036312
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000020001000",
@@ -28820,10 +28618,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 26361.21551,
-    "out:ROI% (exclude maintenance cost)": 292.335988
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000020001100",
@@ -28962,10 +28759,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 37048.71853,
-    "out:ROI% (exclude maintenance cost)": 226.86707
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000100000000",
@@ -29104,10 +28900,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -751368.5237,
-    "out:ROI% (exclude maintenance cost)": -2.509563
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000100000100",
@@ -29246,10 +29041,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -740681.0207,
-    "out:ROI% (exclude maintenance cost)": -3.489234
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000100001000",
@@ -29388,10 +29182,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -637528.5237,
-    "out:ROI% (exclude maintenance cost)": -3.768848
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000100001100",
@@ -29530,10 +29323,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -626841.0207,
-    "out:ROI% (exclude maintenance cost)": -4.947906
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000110000000",
@@ -29672,10 +29464,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -395669.8416,
-    "out:ROI% (exclude maintenance cost)": -12.707923
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000110000100",
@@ -29814,10 +29605,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -384982.3386,
-    "out:ROI% (exclude maintenance cost)": -14.875862
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000110001000",
@@ -29956,10 +29746,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -281829.8416,
-    "out:ROI% (exclude maintenance cost)": -19.675996
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000110001100",
@@ -30098,10 +29887,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -271142.3386,
-    "out:ROI% (exclude maintenance cost)": -23.028809
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000120000000",
@@ -30240,10 +30028,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -39971.1595,
-    "out:ROI% (exclude maintenance cost)": -198.188082
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000120000100",
@@ -30382,10 +30169,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -29283.65647,
-    "out:ROI% (exclude maintenance cost)": -294.382967
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000120001000",
@@ -30524,10 +30310,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 73868.84051,
-    "out:ROI% (exclude maintenance cost)": 114.242331
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000000120001100",
@@ -30666,10 +30451,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 84556.34353,
-    "out:ROI% (exclude maintenance cost)": 108.067005
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001000000000",
@@ -30808,10 +30592,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -432810.1561,
-    "out:ROI% (exclude maintenance cost)": -10.290173
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001000000100",
@@ -30950,10 +30733,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -422122.6531,
-    "out:ROI% (exclude maintenance cost)": -12.190994
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001000001000",
@@ -31092,10 +30874,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -318970.1561,
-    "out:ROI% (exclude maintenance cost)": -15.656492
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001000001100",
@@ -31234,10 +31015,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -308282.6531,
-    "out:ROI% (exclude maintenance cost)": -18.442333
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001010000000",
@@ -31376,10 +31156,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -77111.47397,
-    "out:ROI% (exclude maintenance cost)": -102.366315
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001010000100",
@@ -31518,10 +31297,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -66423.97094,
-    "out:ROI% (exclude maintenance cost)": -129.256373
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001010001000",
@@ -31660,10 +31438,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 36728.52604,
-    "out:ROI% (exclude maintenance cost)": 229.492063
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001010001100",
@@ -31802,10 +31579,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 47416.02906,
-    "out:ROI% (exclude maintenance cost)": 192.341279
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001020000000",
@@ -31944,10 +31720,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 278587.2081,
-    "out:ROI% (exclude maintenance cost)": 39.081333
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001020000100",
@@ -32086,10 +31861,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 289274.7112,
-    "out:ROI% (exclude maintenance cost)": 40.029516
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001020001000",
@@ -32228,10 +32002,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 392427.2081,
-    "out:ROI% (exclude maintenance cost)": 29.102397
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001020001100",
@@ -32370,10 +32143,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 403114.7112,
-    "out:ROI% (exclude maintenance cost)": 30.04497
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001100000000",
@@ -32512,10 +32284,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -385302.5311,
-    "out:ROI% (exclude maintenance cost)": -13.426966
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001100000100",
@@ -32654,10 +32425,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -374615.0281,
-    "out:ROI% (exclude maintenance cost)": -15.655088
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001100001000",
@@ -32796,10 +32566,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -271462.5311,
-    "out:ROI% (exclude maintenance cost)": -20.640186
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001100001100",
@@ -32938,10 +32707,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -260775.0281,
-    "out:ROI% (exclude maintenance cost)": -24.132594
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001110000000",
@@ -33080,10 +32848,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -29603.84897,
-    "out:ROI% (exclude maintenance cost)": -290.729203
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001110000100",
@@ -33222,10 +32989,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -18916.34594,
-    "out:ROI% (exclude maintenance cost)": -491.507797
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001110001000",
@@ -33364,10 +33130,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 84236.15104,
-    "out:ROI% (exclude maintenance cost)": 107.224234
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001110001100",
@@ -33506,10 +33271,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 94923.65406,
-    "out:ROI% (exclude maintenance cost)": 102.417958
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001120000000",
@@ -33648,10 +33412,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 326094.8331,
-    "out:ROI% (exclude maintenance cost)": 35.565094
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001120000100",
@@ -33790,10 +33553,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 336782.3362,
-    "out:ROI% (exclude maintenance cost)": 36.487237
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001120001000",
@@ -33932,10 +33694,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 439934.8331,
-    "out:ROI% (exclude maintenance cost)": 27.324858
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000001120001100",
@@ -34074,10 +33835,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.247903,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.297602,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 450622.3362,
-    "out:ROI% (exclude maintenance cost)": 28.206989
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200000000000",
@@ -34216,10 +33976,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1720000,
-    "out:ROI% (exclude maintenance cost)": -1.552555
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200000000100",
@@ -34358,10 +34117,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1710000,
-    "out:ROI% (exclude maintenance cost)": -1.926637
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200000001000",
@@ -34500,10 +34258,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1610000,
-    "out:ROI% (exclude maintenance cost)": -2.064258
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200000001100",
@@ -34642,10 +34399,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1600000,
-    "out:ROI% (exclude maintenance cost)": -2.468412
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200010000000",
@@ -34784,10 +34540,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1370000,
-    "out:ROI% (exclude maintenance cost)": -4.255737
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200010000100",
@@ -34926,10 +34681,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1360000,
-    "out:ROI% (exclude maintenance cost)": -4.74924
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200010001000",
@@ -35068,10 +34822,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1250000,
-    "out:ROI% (exclude maintenance cost)": -5.158301
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200010001100",
@@ -35210,10 +34963,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1240000,
-    "out:ROI% (exclude maintenance cost)": -5.704792
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200020000000",
@@ -35352,10 +35104,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1010000,
-    "out:ROI% (exclude maintenance cost)": -8.614665
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200020000100",
@@ -35494,10 +35245,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1000000,
-    "out:ROI% (exclude maintenance cost)": -9.330195
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200020001000",
@@ -35636,10 +35386,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -897286.0575,
-    "out:ROI% (exclude maintenance cost)": -10.428044
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200020001100",
@@ -35778,10 +35527,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -886598.5545,
-    "out:ROI% (exclude maintenance cost)": -11.257308
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200100000000",
@@ -35920,10 +35668,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1680000,
-    "out:ROI% (exclude maintenance cost)": -2.111152
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200100000100",
@@ -36062,10 +35809,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1660000,
-    "out:ROI% (exclude maintenance cost)": -2.4995
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200100001000",
@@ -36204,10 +35950,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1560000,
-    "out:ROI% (exclude maintenance cost)": -2.596347
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200100001100",
@@ -36346,10 +36091,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1550000,
-    "out:ROI% (exclude maintenance cost)": -3.016552
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200110000000",
@@ -36488,10 +36232,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1320000,
-    "out:ROI% (exclude maintenance cost)": -5.062277
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200110000100",
@@ -36630,10 +36373,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1310000,
-    "out:ROI% (exclude maintenance cost)": -5.580283
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200110001000",
@@ -36772,10 +36514,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1210000,
-    "out:ROI% (exclude maintenance cost)": -5.969329
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200110001100",
@@ -36914,10 +36655,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1190000,
-    "out:ROI% (exclude maintenance cost)": -6.544804
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200120000000",
@@ -37056,10 +36796,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -963618.4325,
-    "out:ROI% (exclude maintenance cost)": -9.933822
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200120000100",
@@ -37198,10 +36937,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -952930.9295,
-    "out:ROI% (exclude maintenance cost)": -10.699819
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200120001000",
@@ -37340,10 +37078,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -849778.4325,
-    "out:ROI% (exclude maintenance cost)": -11.87316
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000200120001100",
@@ -37482,10 +37219,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -839090.9295,
-    "out:ROI% (exclude maintenance cost)": -12.767782
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201000000000",
@@ -37624,10 +37360,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1360000,
-    "out:ROI% (exclude maintenance cost)": -4.485713
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201000000100",
@@ -37766,10 +37501,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1350000,
-    "out:ROI% (exclude maintenance cost)": -4.979839
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201000001000",
@@ -37908,10 +37642,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1240000,
-    "out:ROI% (exclude maintenance cost)": -5.327866
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201000001100",
@@ -38050,10 +37783,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1230000,
-    "out:ROI% (exclude maintenance cost)": -5.873948
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201010000000",
@@ -38192,10 +37924,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1000000,
-    "out:ROI% (exclude maintenance cost)": -9.516467
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201010000100",
@@ -38334,10 +38065,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -990071.244,
-    "out:ROI% (exclude maintenance cost)": -10.242101
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201010001000",
@@ -38476,10 +38206,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -886918.747,
-    "out:ROI% (exclude maintenance cost)": -11.336235
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201010001100",
@@ -38618,10 +38347,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -876231.244,
-    "out:ROI% (exclude maintenance cost)": -12.176851
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201020000000",
@@ -38760,10 +38488,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -645060.0649,
-    "out:ROI% (exclude maintenance cost)": -19.404721
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201020000100",
@@ -38902,10 +38629,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -634372.5618,
-    "out:ROI% (exclude maintenance cost)": -20.70359
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201020001000",
@@ -39044,10 +38770,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -531220.0649,
-    "out:ROI% (exclude maintenance cost)": -24.557558
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201020001100",
@@ -39186,10 +38911,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -520532.5618,
-    "out:ROI% (exclude maintenance cost)": -26.243722
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201100000000",
@@ -39328,10 +39052,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1310000,
-    "out:ROI% (exclude maintenance cost)": -5.193668
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201100000100",
@@ -39470,10 +39193,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1300000,
-    "out:ROI% (exclude maintenance cost)": -5.710412
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201100001000",
@@ -39612,10 +39334,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1200000,
-    "out:ROI% (exclude maintenance cost)": -6.04395
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201100001100",
@@ -39754,10 +39475,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1180000,
-    "out:ROI% (exclude maintenance cost)": -6.616956
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201110000000",
@@ -39896,10 +39616,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -953251.122,
-    "out:ROI% (exclude maintenance cost)": -10.732001
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201110000100",
@@ -40038,10 +39757,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -942563.619,
-    "out:ROI% (exclude maintenance cost)": -11.506125
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201110001000",
@@ -40180,10 +39898,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -839411.122,
-    "out:ROI% (exclude maintenance cost)": -12.68849
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201110001100",
@@ -40322,10 +40039,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -828723.619,
-    "out:ROI% (exclude maintenance cost)": -13.592573
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201120000000",
@@ -40464,10 +40180,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -597552.4399,
-    "out:ROI% (exclude maintenance cost)": -22.124628
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201120000100",
@@ -40606,10 +40321,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -586864.9368,
-    "out:ROI% (exclude maintenance cost)": -23.575113
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201120001000",
@@ -40748,10 +40462,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -483712.4399,
-    "out:ROI% (exclude maintenance cost)": -28.196918
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02000201120001100",
@@ -40890,10 +40603,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.400601,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.404032,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -473024.9368,
-    "out:ROI% (exclude maintenance cost)": -30.13079
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000000000000",
@@ -41032,10 +40744,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -651035.9194,
-    "out:ROI% (exclude maintenance cost)": -4.944034
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000000000100",
@@ -41174,10 +40885,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -640348.4164,
-    "out:ROI% (exclude maintenance cost)": -5.962022
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000000001000",
@@ -41316,10 +41026,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -537195.9194,
-    "out:ROI% (exclude maintenance cost)": -7.195084
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000000001100",
@@ -41458,10 +41167,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -526508.4164,
-    "out:ROI% (exclude maintenance cost)": -8.478873
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000010000000",
@@ -41600,10 +41308,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -295337.2373,
-    "out:ROI% (exclude maintenance cost)": -21.539033
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000010000100",
@@ -41742,10 +41449,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -284649.7342,
-    "out:ROI% (exclude maintenance cost)": -24.452179
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000010001000",
@@ -41884,10 +41590,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -181497.2373,
-    "out:ROI% (exclude maintenance cost)": -38.610532
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000010001100",
@@ -42026,10 +41731,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -170809.7342,
-    "out:ROI% (exclude maintenance cost)": -44.533368
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000020000000",
@@ -42168,10 +41872,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 60361.44485,
-    "out:ROI% (exclude maintenance cost)": 153.325423
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000020000100",
@@ -42310,10 +42013,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 71048.94788,
-    "out:ROI% (exclude maintenance cost)": 138.69272
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000020001000",
@@ -42452,10 +42154,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 174201.4449,
-    "out:ROI% (exclude maintenance cost)": 56.838624
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000020001100",
@@ -42594,10 +42295,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 184888.9479,
-    "out:ROI% (exclude maintenance cost)": 56.793001
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000100000000",
@@ -42736,10 +42436,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -603528.2944,
-    "out:ROI% (exclude maintenance cost)": -6.761316
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000100000100",
@@ -42878,10 +42577,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -592840.7914,
-    "out:ROI% (exclude maintenance cost)": -7.893642
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000100001000",
@@ -43020,10 +42718,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -489688.2944,
-    "out:ROI% (exclude maintenance cost)": -9.389211
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000100001100",
@@ -43162,10 +42859,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -479000.7914,
-    "out:ROI% (exclude maintenance cost)": -10.849281
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000110000000",
@@ -43304,10 +43000,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -247829.6123,
-    "out:ROI% (exclude maintenance cost)": -29.145752
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000110000100",
@@ -43446,10 +43141,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -237142.1092,
-    "out:ROI% (exclude maintenance cost)": -32.985319
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000110001000",
@@ -43588,10 +43282,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -133989.6123,
-    "out:ROI% (exclude maintenance cost)": -57.768071
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000110001100",
@@ -43730,10 +43423,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -123302.1092,
-    "out:ROI% (exclude maintenance cost)": -67.633468
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000120000000",
@@ -43872,10 +43564,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 107869.0699,
-    "out:ROI% (exclude maintenance cost)": 93.7882
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000120000100",
@@ -44014,10 +43705,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 118556.5729,
-    "out:ROI% (exclude maintenance cost)": 90.386163
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000120001000",
@@ -44156,10 +43846,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 221709.0699,
-    "out:ROI% (exclude maintenance cost)": 47.963698
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002000120001100",
@@ -44298,10 +43987,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 232396.5729,
-    "out:ROI% (exclude maintenance cost)": 48.335544
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001000000000",
@@ -44440,10 +44128,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -284969.9267,
-    "out:ROI% (exclude maintenance cost)": -23.213505
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001000000100",
@@ -44582,10 +44269,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -274282.4237,
-    "out:ROI% (exclude maintenance cost)": -26.277098
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001000001000",
@@ -44724,10 +44410,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -171129.9267,
-    "out:ROI% (exclude maintenance cost)": -41.772977
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001000001100",
@@ -44866,10 +44551,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -160442.4237,
-    "out:ROI% (exclude maintenance cost)": -48.24046
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001010000000",
@@ -45008,10 +44692,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 70728.75538,
-    "out:ROI% (exclude maintenance cost)": 142.141704
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001010000100",
@@ -45150,10 +44833,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 81416.25841,
-    "out:ROI% (exclude maintenance cost)": 130.752525
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001010001000",
@@ -45292,10 +44974,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 184568.7554,
-    "out:ROI% (exclude maintenance cost)": 57.331797
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001010001100",
@@ -45434,10 +45115,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 195256.2584,
-    "out:ROI% (exclude maintenance cost)": 57.219672
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001020000000",
@@ -45576,10 +45256,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 426427.4375,
-    "out:ROI% (exclude maintenance cost)": 30.595429
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001020000100",
@@ -45718,10 +45397,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 437114.9405,
-    "out:ROI% (exclude maintenance cost)": 31.201085
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001020001000",
@@ -45860,10 +45538,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 540267.4375,
-    "out:ROI% (exclude maintenance cost)": 25.121731
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001020001100",
@@ -46002,10 +45679,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 550954.9405,
-    "out:ROI% (exclude maintenance cost)": 25.706504
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001100000000",
@@ -46144,10 +45820,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -237462.3017,
-    "out:ROI% (exclude maintenance cost)": -30.850336
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001100000100",
@@ -46286,10 +45961,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -226774.7987,
-    "out:ROI% (exclude maintenance cost)": -34.909205
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001100001000",
@@ -46428,10 +46102,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -123622.3017,
-    "out:ROI% (exclude maintenance cost)": -62.684777
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001100001100",
@@ -46570,10 +46243,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -112934.7987,
-    "out:ROI% (exclude maintenance cost)": -73.837329
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001110000000",
@@ -46712,10 +46384,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 118236.3804,
-    "out:ROI% (exclude maintenance cost)": 90.979057
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001110000100",
@@ -46854,10 +46525,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 128923.8834,
-    "out:ROI% (exclude maintenance cost)": 88.016105
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001110001000",
@@ -46996,10 +46666,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 232076.3804,
-    "out:ROI% (exclude maintenance cost)": 48.156728
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001110001100",
@@ -47138,10 +46807,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 242763.8834,
-    "out:ROI% (exclude maintenance cost)": 48.463374
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001120000000",
@@ -47280,10 +46948,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 473935.0625,
-    "out:ROI% (exclude maintenance cost)": 29.006091
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001120000100",
@@ -47422,10 +47089,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 484622.5655,
-    "out:ROI% (exclude maintenance cost)": 29.584195
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001120001000",
@@ -47564,10 +47230,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 587775.0625,
-    "out:ROI% (exclude maintenance cost)": 24.097618
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002001120001100",
@@ -47706,10 +47371,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.33095,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.498317,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": 598462.5655,
-    "out:ROI% (exclude maintenance cost)": 24.651317
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200000000000",
@@ -47848,10 +47512,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1570000,
-    "out:ROI% (exclude maintenance cost)": -3.126727
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200000000100",
@@ -47990,10 +47653,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1560000,
-    "out:ROI% (exclude maintenance cost)": -3.481556
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200000001000",
@@ -48132,10 +47794,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1460000,
-    "out:ROI% (exclude maintenance cost)": -3.812888
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200000001100",
@@ -48274,10 +47935,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1450000,
-    "out:ROI% (exclude maintenance cost)": -4.200628
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200010000000",
@@ -48416,10 +48076,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1220000,
-    "out:ROI% (exclude maintenance cost)": -6.617098
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200010000100",
@@ -48558,10 +48217,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1210000,
-    "out:ROI% (exclude maintenance cost)": -7.107254
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200010001000",
@@ -48700,10 +48358,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1110000,
-    "out:ROI% (exclude maintenance cost)": -7.883644
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200010001100",
@@ -48842,10 +48499,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1090000,
-    "out:ROI% (exclude maintenance cost)": -8.437152
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200020000000",
@@ -48984,10 +48640,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -863285.8282,
-    "out:ROI% (exclude maintenance cost)": -12.695453
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200020000100",
@@ -49126,10 +48781,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -852598.3251,
-    "out:ROI% (exclude maintenance cost)": -13.466293
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200020001000",
@@ -49268,10 +48922,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -749445.8282,
-    "out:ROI% (exclude maintenance cost)": -15.486418
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200020001100",
@@ -49410,10 +49063,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -738758.3251,
-    "out:ROI% (exclude maintenance cost)": -16.416418
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200100000000",
@@ -49552,10 +49204,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1530000,
-    "out:ROI% (exclude maintenance cost)": -3.78837
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200100000100",
@@ -49694,10 +49345,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1520000,
-    "out:ROI% (exclude maintenance cost)": -4.158978
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200100001000",
@@ -49836,10 +49486,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1410000,
-    "out:ROI% (exclude maintenance cost)": -4.459413
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200100001100",
@@ -49978,10 +49627,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1400000,
-    "out:ROI% (exclude maintenance cost)": -4.865213
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200110000000",
@@ -50120,10 +49768,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1170000,
-    "out:ROI% (exclude maintenance cost)": -7.621184
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200110000100",
@@ -50262,10 +49909,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1160000,
-    "out:ROI% (exclude maintenance cost)": -8.140646
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200110001000",
@@ -50404,10 +50050,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1060000,
-    "out:ROI% (exclude maintenance cost)": -8.930459
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200110001100",
@@ -50546,10 +50191,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1050000,
-    "out:ROI% (exclude maintenance cost)": -9.519769
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200120000000",
@@ -50688,10 +50332,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -815778.2032,
-    "out:ROI% (exclude maintenance cost)": -14.491325
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200120000100",
@@ -50830,10 +50473,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -805090.7001,
-    "out:ROI% (exclude maintenance cost)": -15.331491
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200120001000",
@@ -50972,10 +50614,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -701938.2032,
-    "out:ROI% (exclude maintenance cost)": -17.578254
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002200120001100",
@@ -51114,10 +50755,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -691250.7001,
-    "out:ROI% (exclude maintenance cost)": -18.604512
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201000000000",
@@ -51256,10 +50896,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1210000,
-    "out:ROI% (exclude maintenance cost)": -6.862201
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201000000100",
@@ -51398,10 +51037,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1200000,
-    "out:ROI% (exclude maintenance cost)": -7.352433
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201000001000",
@@ -51540,10 +51178,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1090000,
-    "out:ROI% (exclude maintenance cost)": -8.056717
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201000001100",
@@ -51682,10 +51319,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1080000,
-    "out:ROI% (exclude maintenance cost)": -8.609026
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201010000000",
@@ -51824,10 +51460,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -852918.5176,
-    "out:ROI% (exclude maintenance cost)": -13.753835
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201010000100",
@@ -51966,10 +51601,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -842231.0146,
-    "out:ROI% (exclude maintenance cost)": -14.538134
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201010001000",
@@ -52108,10 +51742,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -739078.5176,
-    "out:ROI% (exclude maintenance cost)": -16.577123
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201010001100",
@@ -52250,10 +51883,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -728391.0146,
-    "out:ROI% (exclude maintenance cost)": -17.523585
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201020000000",
@@ -52392,10 +52024,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -497219.8355,
-    "out:ROI% (exclude maintenance cost)": -29.611779
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201020000100",
@@ -52534,10 +52165,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -486532.3325,
-    "out:ROI% (exclude maintenance cost)": -31.317482
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201020001000",
@@ -52676,10 +52306,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -383379.8355,
-    "out:ROI% (exclude maintenance cost)": -39.756591
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201020001100",
@@ -52818,10 +52447,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -372692.3325,
-    "out:ROI% (exclude maintenance cost)": -42.27055
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201100000000",
@@ -52960,10 +52588,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1160000,
-    "out:ROI% (exclude maintenance cost)": -7.746868
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201100000100",
@@ -53102,10 +52729,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1150000,
-    "out:ROI% (exclude maintenance cost)": -8.263967
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201100001000",
@@ -53244,10 +52870,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1050000,
-    "out:ROI% (exclude maintenance cost)": -8.987221
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201100001100",
@@ -53386,10 +53011,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -1040000,
-    "out:ROI% (exclude maintenance cost)": -9.572555
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201110000000",
@@ -53528,10 +53152,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -805410.8926,
-    "out:ROI% (exclude maintenance cost)": -15.426308
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201110000100",
@@ -53670,10 +53293,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -794723.3896,
-    "out:ROI% (exclude maintenance cost)": -16.277559
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201110001000",
@@ -53812,10 +53434,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -691570.8926,
-    "out:ROI% (exclude maintenance cost)": -18.561865
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201110001100",
@@ -53954,10 +53575,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 12.353263,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -680883.3896,
-    "out:ROI% (exclude maintenance cost)": -19.602513
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201120000000",
@@ -54096,10 +53716,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -449712.2105,
-    "out:ROI% (exclude maintenance cost)": -34.274618
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201120000100",
@@ -54238,10 +53857,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -439024.7075,
-    "out:ROI% (exclude maintenance cost)": -36.273928
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201120001000",
@@ -54380,10 +53998,9 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -335872.2105,
-    "out:ROI% (exclude maintenance cost)": -47.112764
+    "": "",
+    "__1": "",
+    "__2": ""
   },
   {
     "ID": "Z02002201120001100",
@@ -54522,9 +54139,8 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.483648,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 5.604747,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 24.706525,
-    "out:maintenance year": -999,
-    "out:maintenance description": -999,
-    "out:investment cost (exclude maintenance)": -325184.7075,
-    "out:ROI% (exclude maintenance cost)": -50.229334
+    "": "",
+    "__1": "",
+    "__2": ""
   }
 ]
