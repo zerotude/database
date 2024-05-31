@@ -405,7 +405,8 @@
     "out:Total Impact A1-A3 (kg CO2 eq/m2 hfa)": 0.341436,
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
-    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0
+    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
+    "out:Sewage Heat Recovery kgCO2/m2": 188
   },
   {
     "ID": "Z00000000000001100",
@@ -677,7 +678,8 @@
     "out:Total Impact A1-A3 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0,
-    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 8.629513
+    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 8.629513,
+    "out:Solar PV kgCO2/m2panel": 198
   },
   {
     "ID": "Z00000000010000100",
@@ -3397,7 +3399,8 @@
     "out:Total Impact A1-A3 (kg CO2 eq/m2 hfa)": 7.485757,
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.100719,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.124202,
-    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0
+    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
+    "out:Windows kgCO2eq/kWh": 94 
   },
   {
     "ID": "Z00000200000000100",
@@ -3533,7 +3536,8 @@
     "out:Total Impact A1-A3 (kg CO2 eq/m2 hfa)": 7.485757,
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.100719,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 0.124202,
-    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0
+    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
+    "out:Windows kgCO2eq/kWh": 94 
   },
   {
     "ID": "Z00000200000001000",
@@ -6661,7 +6665,8 @@
     "out:Total Impact A1-A3 (kg CO2 eq/m2 hfa)": 0.726635,
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.048249,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.226661,
-    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0
+    "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0,
+    "out:Roof kgCO2/m2": 29
   },
   {
     "ID": "Z00001000000000100",
@@ -6934,6 +6939,7 @@
     "out:Total Impact A4 (kg CO2 eq/m2 hfa)": 0.048249,
     "out:Total Impact A5 (kg CO2 eq/m2 hfa)": 4.226661,
     "out:PV Total Impact  (kg CO2 eq/m2 hfa)": 0
+
   },
   {
     "ID": "Z00001000000001100",
