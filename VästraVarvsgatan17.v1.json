@@ -615,7 +615,7 @@
     "out:FTX (%heat recovery efficiency)": 75,
     "out:IMD (kr/apt)": 2639.3125,
     "out:IMD (#apts)": 13,
-    "out:IMD (% savings assumed)": 20,
+    "out:IMD (% savings assumed)": 10,
     "out:DH (DH connection)": 218750,
     "out:DH (Radiators)": 160550,
     "out:DH (pipework)": 178750,
