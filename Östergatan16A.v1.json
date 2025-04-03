@@ -162,14 +162,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 113.656063,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000000000100",
@@ -334,14 +336,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 109.680813,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000000001000",
@@ -506,14 +510,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 110.625979,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000000001100",
@@ -678,14 +684,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 106.650729,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000010000000",
@@ -850,14 +858,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 113.656063,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000010000100",
@@ -1022,14 +1032,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 109.680813,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000010001000",
@@ -1194,14 +1206,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 110.625979,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000010001100",
@@ -1366,14 +1380,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 106.650729,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000100000000",
@@ -1538,14 +1554,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 109.615951,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000100000100",
@@ -1710,14 +1728,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 105.640701,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000100001000",
@@ -1882,14 +1902,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 107.191883,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000100001100",
@@ -2054,14 +2076,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 103.216633,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000110000000",
@@ -2226,14 +2250,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 109.615951,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000110000100",
@@ -2398,14 +2424,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 105.640701,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000110001000",
@@ -2570,14 +2598,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 107.191883,
+    "out:Space Heating (DH)": 93.455501,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000000110001100",
@@ -2742,14 +2772,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 103.216633,
+    "out:Space Heating (DH)": 89.480251,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001000000000",
@@ -2914,14 +2946,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 71.440079,
+    "out:Space Heating (DH)": 51.239517,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 14.071995,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001000000100",
@@ -3086,14 +3120,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 67.71661,
+    "out:Space Heating (DH)": 47.516048,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 13.988068,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001000001000",
@@ -3258,14 +3294,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 68.409995,
+    "out:Space Heating (DH)": 51.239517,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 14.071995,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001000001100",
@@ -3430,14 +3468,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 64.686525,
+    "out:Space Heating (DH)": 47.516047,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 13.988068,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001010000000",
@@ -3602,14 +3642,16 @@
     "out:Electricity Sold Profit - Grid": 20862.04109,
     "out:Electricity Sold Profit - Tenants": 7382.861154,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 71.440079,
+    "out:Space Heating (DH)": 51.239517,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 11.300681,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.290845,
     "out:Sell Tenants Electricty kWh/m2": 2.754865,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001010000100",
@@ -3774,14 +3816,16 @@
     "out:Electricity Sold Profit - Grid": 20950.46314,
     "out:Electricity Sold Profit - Tenants": 7400.671914,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 67.71661,
+    "out:Space Heating (DH)": 47.516048,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 11.230312,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.288963,
     "out:Sell Tenants Electricty kWh/m2": 2.766541,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001010001000",
@@ -3946,14 +3990,16 @@
     "out:Electricity Sold Profit - Grid": 20862.04109,
     "out:Electricity Sold Profit - Tenants": 7382.861154,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 68.409995,
+    "out:Space Heating (DH)": 51.239517,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 11.300681,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.290845,
     "out:Sell Tenants Electricty kWh/m2": 2.754865,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001010001100",
@@ -4118,14 +4164,16 @@
     "out:Electricity Sold Profit - Grid": 20950.46314,
     "out:Electricity Sold Profit - Tenants": 7400.671914,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 64.686525,
+    "out:Space Heating (DH)": 47.516047,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 11.230312,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.288963,
     "out:Sell Tenants Electricty kWh/m2": 2.766541,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001100000000",
@@ -4290,14 +4338,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 67.399967,
+    "out:Space Heating (DH)": 51.239517,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 14.071995,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001100000100",
@@ -4462,14 +4512,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 63.676497,
+    "out:Space Heating (DH)": 47.516047,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 13.988068,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001100001000",
@@ -4634,14 +4686,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 64.9759,
+    "out:Space Heating (DH)": 51.239518,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 14.071995,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001100001100",
@@ -4806,14 +4860,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 61.25243,
+    "out:Space Heating (DH)": 47.516048,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 13.988068,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001110000000",
@@ -4978,14 +5034,16 @@
     "out:Electricity Sold Profit - Grid": 20862.04109,
     "out:Electricity Sold Profit - Tenants": 7382.861154,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 67.399967,
+    "out:Space Heating (DH)": 51.239517,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 11.300681,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.290845,
     "out:Sell Tenants Electricty kWh/m2": 2.754865,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001110000100",
@@ -5150,14 +5208,16 @@
     "out:Electricity Sold Profit - Grid": 20950.46314,
     "out:Electricity Sold Profit - Tenants": 7400.671914,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 63.676497,
+    "out:Space Heating (DH)": 47.516047,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 11.230312,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.288963,
     "out:Sell Tenants Electricty kWh/m2": 2.766541,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001110001000",
@@ -5322,14 +5382,16 @@
     "out:Electricity Sold Profit - Grid": 20862.04109,
     "out:Electricity Sold Profit - Tenants": 7382.861154,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 64.9759,
+    "out:Space Heating (DH)": 51.239518,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.720201,
     "out:Heating Electricity (inc PV)": 11.300681,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.290845,
     "out:Sell Tenants Electricty kWh/m2": 2.754865,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.779935,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000001110001100",
@@ -5494,14 +5556,16 @@
     "out:Electricity Sold Profit - Grid": 20950.46314,
     "out:Electricity Sold Profit - Tenants": 7400.671914,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 61.25243,
+    "out:Space Heating (DH)": 47.516048,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.636274,
     "out:Heating Electricity (inc PV)": 11.230312,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.288963,
     "out:Sell Tenants Electricty kWh/m2": 2.766541,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.781816,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200000000000",
@@ -5666,14 +5730,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 98.940384,
+    "out:Space Heating (DH)": 78.739822,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200000000100",
@@ -5838,14 +5904,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.634029,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200000001000",
@@ -6010,14 +6078,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.9103,
+    "out:Space Heating (DH)": 78.739822,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200000001100",
@@ -6182,14 +6252,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 92.603945,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200010000000",
@@ -6354,14 +6426,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 98.940384,
+    "out:Space Heating (DH)": 78.739822,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200010000100",
@@ -6526,14 +6600,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.634029,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200010001000",
@@ -6698,14 +6774,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.9103,
+    "out:Space Heating (DH)": 78.739822,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200010001100",
@@ -6870,14 +6948,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 92.603945,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200100000000",
@@ -7042,14 +7122,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 94.900272,
+    "out:Space Heating (DH)": 78.739822,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200100000100",
@@ -7214,14 +7296,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 91.593917,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200100001000",
@@ -7386,14 +7470,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 92.476205,
+    "out:Space Heating (DH)": 78.739823,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200100001100",
@@ -7558,14 +7644,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 89.169849,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200110000000",
@@ -7730,14 +7818,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 94.900272,
+    "out:Space Heating (DH)": 78.739822,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200110000100",
@@ -7902,14 +7992,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 91.593917,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200110001000",
@@ -8074,14 +8166,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 92.476205,
+    "out:Space Heating (DH)": 78.739823,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000200110001100",
@@ -8246,14 +8340,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 89.169849,
+    "out:Space Heating (DH)": 75.433467,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201000000000",
@@ -8418,14 +8514,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 58.213434,
+    "out:Space Heating (DH)": 38.012872,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 13.57565,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201000000100",
@@ -8590,14 +8688,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 55.187449,
+    "out:Space Heating (DH)": 34.986887,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 13.482193,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201000001000",
@@ -8762,14 +8862,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 55.18335,
+    "out:Space Heating (DH)": 38.012872,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 13.57565,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201000001100",
@@ -8934,14 +9036,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 52.157365,
+    "out:Space Heating (DH)": 34.986887,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 13.482193,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201010000000",
@@ -9106,14 +9210,16 @@
     "out:Electricity Sold Profit - Grid": 21389.29679,
     "out:Electricity Sold Profit - Tenants": 7485.350335,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 58.213434,
+    "out:Space Heating (DH)": 38.012872,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 10.884788,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.280018,
     "out:Sell Tenants Electricty kWh/m2": 2.82449,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201010000100",
@@ -9278,14 +9384,16 @@
     "out:Electricity Sold Profit - Grid": 21489.42597,
     "out:Electricity Sold Profit - Tenants": 7504.630599,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 55.187449,
+    "out:Space Heating (DH)": 34.986887,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 10.80659,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.277981,
     "out:Sell Tenants Electricty kWh/m2": 2.837712,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201010001000",
@@ -9450,14 +9558,16 @@
     "out:Electricity Sold Profit - Grid": 21389.29679,
     "out:Electricity Sold Profit - Tenants": 7485.350335,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 55.18335,
+    "out:Space Heating (DH)": 38.012872,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 10.884788,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.280018,
     "out:Sell Tenants Electricty kWh/m2": 2.82449,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201010001100",
@@ -9622,14 +9732,16 @@
     "out:Electricity Sold Profit - Grid": 21489.42597,
     "out:Electricity Sold Profit - Tenants": 7504.630599,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 52.157365,
+    "out:Space Heating (DH)": 34.986887,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 10.80659,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.277981,
     "out:Sell Tenants Electricty kWh/m2": 2.837712,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201100000000",
@@ -9794,14 +9906,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 54.173321,
+    "out:Space Heating (DH)": 38.012871,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 13.57565,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201100000100",
@@ -9966,14 +10080,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 51.147336,
+    "out:Space Heating (DH)": 34.986886,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 13.482193,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201100001000",
@@ -10138,14 +10254,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 51.749254,
+    "out:Space Heating (DH)": 38.012872,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 13.57565,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201100001100",
@@ -10310,14 +10428,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 48.723269,
+    "out:Space Heating (DH)": 34.986887,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 13.482193,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201110000000",
@@ -10482,14 +10602,16 @@
     "out:Electricity Sold Profit - Grid": 21389.29679,
     "out:Electricity Sold Profit - Tenants": 7485.350335,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 54.173321,
+    "out:Space Heating (DH)": 38.012871,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 10.884788,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.280018,
     "out:Sell Tenants Electricty kWh/m2": 2.82449,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201110000100",
@@ -10654,14 +10776,16 @@
     "out:Electricity Sold Profit - Grid": 21489.42597,
     "out:Electricity Sold Profit - Tenants": 7504.630599,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 51.147336,
+    "out:Space Heating (DH)": 34.986886,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 10.80659,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.277981,
     "out:Sell Tenants Electricty kWh/m2": 2.837712,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201110001000",
@@ -10826,14 +10950,16 @@
     "out:Electricity Sold Profit - Grid": 21389.29679,
     "out:Electricity Sold Profit - Tenants": 7485.350335,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 51.749254,
+    "out:Space Heating (DH)": 38.012872,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.223856,
     "out:Heating Electricity (inc PV)": 10.884788,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.280018,
     "out:Sell Tenants Electricty kWh/m2": 2.82449,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.790762,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0000201110001100",
@@ -10998,14 +11124,16 @@
     "out:Electricity Sold Profit - Grid": 21489.42597,
     "out:Electricity Sold Profit - Tenants": 7504.630599,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 48.723269,
+    "out:Space Heating (DH)": 34.986887,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.130399,
     "out:Heating Electricity (inc PV)": 10.80659,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.277981,
     "out:Sell Tenants Electricty kWh/m2": 2.837712,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792798,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000000000000",
@@ -11170,14 +11298,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 103.912211,
+    "out:Space Heating (DH)": 83.711649,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000000000100",
@@ -11342,14 +11472,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 100.379863,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000000001000",
@@ -11514,14 +11646,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 100.882126,
+    "out:Space Heating (DH)": 83.711648,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000000001100",
@@ -11686,14 +11820,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 97.349779,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000010000000",
@@ -11858,14 +11994,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 103.912211,
+    "out:Space Heating (DH)": 83.711649,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000010000100",
@@ -12030,14 +12168,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 100.379863,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000010001000",
@@ -12202,14 +12342,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 100.882126,
+    "out:Space Heating (DH)": 83.711648,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000010001100",
@@ -12374,14 +12516,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 97.349779,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000100000000",
@@ -12546,14 +12690,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 99.872098,
+    "out:Space Heating (DH)": 83.711648,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000100000100",
@@ -12718,14 +12864,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 96.339751,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000100001000",
@@ -12890,14 +13038,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 97.448031,
+    "out:Space Heating (DH)": 83.711649,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000100001100",
@@ -13062,14 +13212,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 93.915683,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000110000000",
@@ -13234,14 +13386,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 99.872098,
+    "out:Space Heating (DH)": 83.711648,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000110000100",
@@ -13406,14 +13560,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 96.339751,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000110001000",
@@ -13578,14 +13734,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 97.448031,
+    "out:Space Heating (DH)": 83.711649,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002000110001100",
@@ -13750,14 +13908,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 93.915683,
+    "out:Space Heating (DH)": 80.179301,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001000000000",
@@ -13922,14 +14082,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 62.520037,
+    "out:Space Heating (DH)": 42.319475,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 13.797391,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001000000100",
@@ -14094,14 +14256,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 59.253475,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 13.708796,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001000001000",
@@ -14266,14 +14430,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 59.489952,
+    "out:Space Heating (DH)": 42.319474,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 13.797391,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001000001100",
@@ -14438,14 +14604,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 56.223391,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 13.708796,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001010000000",
@@ -14610,14 +14778,16 @@
     "out:Electricity Sold Profit - Grid": 21152.38341,
     "out:Electricity Sold Profit - Tenants": 7440.305791,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 62.520037,
+    "out:Space Heating (DH)": 42.319475,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 11.070486,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284776,
     "out:Sell Tenants Electricty kWh/m2": 2.793205,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001010000100",
@@ -14782,14 +14952,16 @@
     "out:Electricity Sold Profit - Grid": 21246.88185,
     "out:Electricity Sold Profit - Tenants": 7458.213208,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 59.253475,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 10.996261,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.282885,
     "out:Sell Tenants Electricty kWh/m2": 2.805684,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001010001000",
@@ -14954,14 +15126,16 @@
     "out:Electricity Sold Profit - Grid": 21152.38341,
     "out:Electricity Sold Profit - Tenants": 7440.305791,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 59.489952,
+    "out:Space Heating (DH)": 42.319474,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 11.070486,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284776,
     "out:Sell Tenants Electricty kWh/m2": 2.793205,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001010001100",
@@ -15126,14 +15300,16 @@
     "out:Electricity Sold Profit - Grid": 21246.88185,
     "out:Electricity Sold Profit - Tenants": 7458.213208,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 56.223391,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 10.996261,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.282885,
     "out:Sell Tenants Electricty kWh/m2": 2.805684,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001100000000",
@@ -15298,14 +15474,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 58.479924,
+    "out:Space Heating (DH)": 42.319474,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 13.797391,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001100000100",
@@ -15470,14 +15648,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 55.213363,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 13.708796,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001100001000",
@@ -15642,14 +15822,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 56.055857,
+    "out:Space Heating (DH)": 42.319475,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 13.797391,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001100001100",
@@ -15814,14 +15996,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 52.789295,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 13.708796,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001110000000",
@@ -15986,14 +16170,16 @@
     "out:Electricity Sold Profit - Grid": 21152.38341,
     "out:Electricity Sold Profit - Tenants": 7440.305791,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 58.479924,
+    "out:Space Heating (DH)": 42.319474,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 11.070486,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284776,
     "out:Sell Tenants Electricty kWh/m2": 2.793205,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001110000100",
@@ -16158,14 +16344,16 @@
     "out:Electricity Sold Profit - Grid": 21246.88185,
     "out:Electricity Sold Profit - Tenants": 7458.213208,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 55.213363,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 10.996261,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.282885,
     "out:Sell Tenants Electricty kWh/m2": 2.805684,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001110001000",
@@ -16330,14 +16518,16 @@
     "out:Electricity Sold Profit - Grid": 21152.38341,
     "out:Electricity Sold Profit - Tenants": 7440.305791,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 56.055857,
+    "out:Space Heating (DH)": 42.319475,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.445597,
     "out:Heating Electricity (inc PV)": 11.070486,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284776,
     "out:Sell Tenants Electricty kWh/m2": 2.793205,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.786003,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002001110001100",
@@ -16502,14 +16692,16 @@
     "out:Electricity Sold Profit - Grid": 21246.88185,
     "out:Electricity Sold Profit - Tenants": 7458.213208,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 52.789295,
+    "out:Space Heating (DH)": 39.052913,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.357002,
     "out:Heating Electricity (inc PV)": 10.996261,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.282885,
     "out:Sell Tenants Electricty kWh/m2": 2.805684,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.787895,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200000000000",
@@ -16674,14 +16866,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 88.840829,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200000000100",
@@ -16846,14 +17040,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.993544,
+    "out:Space Heating (DH)": 65.792982,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200000001000",
@@ -17018,14 +17214,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.810745,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200000001100",
@@ -17190,14 +17388,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.96346,
+    "out:Space Heating (DH)": 65.792982,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200010000000",
@@ -17362,14 +17562,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 88.840829,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200010000100",
@@ -17534,14 +17736,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.993544,
+    "out:Space Heating (DH)": 65.792982,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200010001000",
@@ -17706,14 +17910,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.810745,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200010001100",
@@ -17878,14 +18084,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.96346,
+    "out:Space Heating (DH)": 65.792982,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200100000000",
@@ -18050,14 +18258,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 84.800717,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200100000100",
@@ -18222,14 +18432,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 81.953432,
+    "out:Space Heating (DH)": 65.792982,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200100001000",
@@ -18394,14 +18606,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.376649,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200100001100",
@@ -18566,14 +18780,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 79.529365,
+    "out:Space Heating (DH)": 65.792983,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200110000000",
@@ -18738,14 +18954,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 84.800717,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200110000100",
@@ -18910,14 +19128,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 81.953432,
+    "out:Space Heating (DH)": 65.792982,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200110001000",
@@ -19082,14 +19302,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.376649,
+    "out:Space Heating (DH)": 68.640267,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002200110001100",
@@ -19254,14 +19476,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 79.529365,
+    "out:Space Heating (DH)": 65.792983,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201000000000",
@@ -19426,14 +19650,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 49.298471,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 13.180786,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201000000100",
@@ -19598,14 +19824,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 46.75841,
+    "out:Space Heating (DH)": 26.557848,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 13.078378,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201000001000",
@@ -19770,14 +19998,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 46.268387,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 13.180786,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201000001100",
@@ -19942,14 +20172,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 43.728326,
+    "out:Space Heating (DH)": 26.557848,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 13.078378,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201010000000",
@@ -20114,14 +20346,16 @@
     "out:Electricity Sold Profit - Grid": 21813.77501,
     "out:Electricity Sold Profit - Tenants": 7567.015081,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 49.298471,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 10.554604,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.271391,
     "out:Sell Tenants Electricty kWh/m2": 2.880543,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201010000100",
@@ -20286,14 +20520,16 @@
     "out:Electricity Sold Profit - Grid": 21924.56232,
     "out:Electricity Sold Profit - Tenants": 7588.128907,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 46.75841,
+    "out:Space Heating (DH)": 26.557848,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 10.469056,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.26916,
     "out:Sell Tenants Electricty kWh/m2": 2.895173,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201010001000",
@@ -20458,14 +20694,16 @@
     "out:Electricity Sold Profit - Grid": 21813.77501,
     "out:Electricity Sold Profit - Tenants": 7567.015081,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 46.268387,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 10.554604,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.271391,
     "out:Sell Tenants Electricty kWh/m2": 2.880543,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201010001100",
@@ -20630,14 +20868,16 @@
     "out:Electricity Sold Profit - Grid": 21924.56232,
     "out:Electricity Sold Profit - Tenants": 7588.128907,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 43.728326,
+    "out:Space Heating (DH)": 26.557848,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 10.469056,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.26916,
     "out:Sell Tenants Electricty kWh/m2": 2.895173,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201100000000",
@@ -20802,14 +21042,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 45.258359,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 13.180786,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201100000100",
@@ -20974,14 +21216,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 42.718297,
+    "out:Space Heating (DH)": 26.557847,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 13.078378,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201100001000",
@@ -21146,14 +21390,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 42.834291,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 13.180786,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201100001100",
@@ -21318,14 +21564,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 40.29423,
+    "out:Space Heating (DH)": 26.557848,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 13.078378,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201110000000",
@@ -21490,14 +21738,16 @@
     "out:Electricity Sold Profit - Grid": 21813.77501,
     "out:Electricity Sold Profit - Tenants": 7567.015081,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 45.258359,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 10.554604,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.271391,
     "out:Sell Tenants Electricty kWh/m2": 2.880543,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201110000100",
@@ -21662,14 +21912,16 @@
     "out:Electricity Sold Profit - Grid": 21924.56232,
     "out:Electricity Sold Profit - Tenants": 7588.128907,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 42.718297,
+    "out:Space Heating (DH)": 26.557847,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 10.469056,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.26916,
     "out:Sell Tenants Electricty kWh/m2": 2.895173,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201110001000",
@@ -21834,14 +22086,16 @@
     "out:Electricity Sold Profit - Grid": 21813.77501,
     "out:Electricity Sold Profit - Tenants": 7567.015081,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 42.834291,
+    "out:Space Heating (DH)": 29.097909,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.828992,
     "out:Heating Electricity (inc PV)": 10.554604,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.271391,
     "out:Sell Tenants Electricty kWh/m2": 2.880543,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.799389,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z0002201110001100",
@@ -22006,14 +22260,16 @@
     "out:Electricity Sold Profit - Grid": 21924.56232,
     "out:Electricity Sold Profit - Tenants": 7588.128907,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 40.29423,
+    "out:Space Heating (DH)": 26.557848,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.726584,
     "out:Heating Electricity (inc PV)": 10.469056,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.26916,
     "out:Sell Tenants Electricty kWh/m2": 2.895173,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801619,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000000000000",
@@ -22178,14 +22434,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 101.907797,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000000000100",
@@ -22350,14 +22608,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 98.466559,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000000001000",
@@ -22522,14 +22782,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 98.877713,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000000001100",
@@ -22694,14 +22956,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.436475,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000010000000",
@@ -22866,14 +23130,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 101.907797,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000010000100",
@@ -23038,14 +23304,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 98.466559,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000010001000",
@@ -23210,14 +23478,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 98.877713,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000010001100",
@@ -23382,14 +23652,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.436475,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000100000000",
@@ -23554,14 +23826,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 97.867685,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000100000100",
@@ -23726,14 +24000,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 94.426447,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000100001000",
@@ -23898,14 +24174,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.443617,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000100001100",
@@ -24070,14 +24348,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 92.002379,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000110000000",
@@ -24242,14 +24522,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 97.867685,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000110000100",
@@ -24414,14 +24696,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 94.426447,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000110001000",
@@ -24586,14 +24870,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 95.443617,
+    "out:Space Heating (DH)": 81.707235,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000000110001100",
@@ -24758,14 +25044,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 92.002379,
+    "out:Space Heating (DH)": 78.265997,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001000000000",
@@ -24930,14 +25218,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 60.239078,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 13.889573,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001000000100",
@@ -25102,14 +25392,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 57.078205,
+    "out:Space Heating (DH)": 36.877643,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 13.796118,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001000001000",
@@ -25274,14 +25566,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 57.208994,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 13.889573,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001000001100",
@@ -25446,14 +25740,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 54.048121,
+    "out:Space Heating (DH)": 36.877643,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 13.796118,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001010000000",
@@ -25618,14 +25914,16 @@
     "out:Electricity Sold Profit - Grid": 21054.53478,
     "out:Electricity Sold Profit - Tenants": 7421.363533,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 60.239078,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 11.147746,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.286778,
     "out:Sell Tenants Electricty kWh/m2": 2.780284,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001010000100",
@@ -25790,14 +26088,16 @@
     "out:Electricity Sold Profit - Grid": 21153.7392,
     "out:Electricity Sold Profit - Tenants": 7440.564403,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 57.078205,
+    "out:Space Heating (DH)": 36.877643,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 11.069419,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284749,
     "out:Sell Tenants Electricty kWh/m2": 2.793384,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001010001000",
@@ -25962,14 +26262,16 @@
     "out:Electricity Sold Profit - Grid": 21054.53478,
     "out:Electricity Sold Profit - Tenants": 7421.363533,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 57.208994,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 11.147746,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.286778,
     "out:Sell Tenants Electricty kWh/m2": 2.780284,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001010001100",
@@ -26134,14 +26436,16 @@
     "out:Electricity Sold Profit - Grid": 21153.7392,
     "out:Electricity Sold Profit - Tenants": 7440.564403,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 54.048121,
+    "out:Space Heating (DH)": 36.877643,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 11.069419,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284749,
     "out:Sell Tenants Electricty kWh/m2": 2.793384,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001100000000",
@@ -26306,14 +26610,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 56.198966,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 13.889573,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001100000100",
@@ -26478,14 +26784,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 53.038092,
+    "out:Space Heating (DH)": 36.877642,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 13.796118,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001100001000",
@@ -26650,14 +26958,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 53.774898,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 13.889573,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001100001100",
@@ -26822,14 +27132,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 50.614025,
+    "out:Space Heating (DH)": 36.877643,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 13.796118,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001110000000",
@@ -26994,14 +27306,16 @@
     "out:Electricity Sold Profit - Grid": 21054.53478,
     "out:Electricity Sold Profit - Tenants": 7421.363533,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 56.198966,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 11.147746,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.286778,
     "out:Sell Tenants Electricty kWh/m2": 2.780284,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001110000100",
@@ -27166,14 +27480,16 @@
     "out:Electricity Sold Profit - Grid": 21153.7392,
     "out:Electricity Sold Profit - Tenants": 7440.564403,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 53.038092,
+    "out:Space Heating (DH)": 36.877642,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 11.069419,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284749,
     "out:Sell Tenants Electricty kWh/m2": 2.793384,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001110001000",
@@ -27338,14 +27654,16 @@
     "out:Electricity Sold Profit - Grid": 21054.53478,
     "out:Electricity Sold Profit - Tenants": 7421.363533,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 53.774898,
+    "out:Space Heating (DH)": 40.038516,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.537779,
     "out:Heating Electricity (inc PV)": 11.147746,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.286778,
     "out:Sell Tenants Electricty kWh/m2": 2.780284,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.784002,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000001110001100",
@@ -27510,14 +27828,16 @@
     "out:Electricity Sold Profit - Grid": 21153.7392,
     "out:Electricity Sold Profit - Tenants": 7440.564403,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 50.614025,
+    "out:Space Heating (DH)": 36.877643,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.444324,
     "out:Heating Electricity (inc PV)": 11.069419,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.284749,
     "out:Sell Tenants Electricty kWh/m2": 2.793384,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.78603,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200000000000",
@@ -27682,14 +28002,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 86.672977,
+    "out:Space Heating (DH)": 66.472415,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200000000100",
@@ -27854,14 +28176,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 83.924231,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200000001000",
@@ -28026,14 +28350,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 83.642893,
+    "out:Space Heating (DH)": 66.472415,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200000001100",
@@ -28198,14 +28524,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 80.894147,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200010000000",
@@ -28370,14 +28698,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 86.672977,
+    "out:Space Heating (DH)": 66.472415,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200010000100",
@@ -28542,14 +28872,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 83.924231,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200010001000",
@@ -28714,14 +29046,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 83.642893,
+    "out:Space Heating (DH)": 66.472415,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200010001100",
@@ -28886,14 +29220,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 80.894147,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200100000000",
@@ -29058,14 +29394,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.632865,
+    "out:Space Heating (DH)": 66.472415,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200100000100",
@@ -29230,14 +29568,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 79.884119,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200100001000",
@@ -29402,14 +29742,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 80.208798,
+    "out:Space Heating (DH)": 66.472416,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200100001100",
@@ -29574,14 +29916,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 77.460051,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200110000000",
@@ -29746,14 +30090,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.632865,
+    "out:Space Heating (DH)": 66.472415,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200110000100",
@@ -29918,14 +30264,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 79.884119,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200110001000",
@@ -30090,14 +30438,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 80.208798,
+    "out:Space Heating (DH)": 66.472416,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000200110001100",
@@ -30262,14 +30612,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 77.460051,
+    "out:Space Heating (DH)": 63.723669,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201000000000",
@@ -30434,14 +30786,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 47.040551,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 13.210809,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201000000100",
@@ -30606,14 +30960,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.615305,
+    "out:Space Heating (DH)": 24.414743,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 13.102976,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201000001000",
@@ -30778,14 +31134,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.010467,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 13.210809,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201000001100",
@@ -30950,14 +31308,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 41.58522,
+    "out:Space Heating (DH)": 24.414742,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 13.102976,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201010000000",
@@ -31122,14 +31482,16 @@
     "out:Electricity Sold Profit - Grid": 21781.31802,
     "out:Electricity Sold Profit - Tenants": 7560.881846,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 47.040551,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 10.579693,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.272039,
     "out:Sell Tenants Electricty kWh/m2": 2.876257,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201010000100",
@@ -31294,14 +31656,16 @@
     "out:Electricity Sold Profit - Grid": 21897.92388,
     "out:Electricity Sold Profit - Tenants": 7583.056636,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.615305,
+    "out:Space Heating (DH)": 24.414743,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 10.489601,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.269696,
     "out:Sell Tenants Electricty kWh/m2": 2.891655,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201010001000",
@@ -31466,14 +31830,16 @@
     "out:Electricity Sold Profit - Grid": 21781.31802,
     "out:Electricity Sold Profit - Tenants": 7560.881846,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.010467,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 10.579693,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.272039,
     "out:Sell Tenants Electricty kWh/m2": 2.876257,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201010001100",
@@ -31638,14 +32004,16 @@
     "out:Electricity Sold Profit - Grid": 21897.92388,
     "out:Electricity Sold Profit - Tenants": 7583.056636,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 41.58522,
+    "out:Space Heating (DH)": 24.414742,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 10.489601,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.269696,
     "out:Sell Tenants Electricty kWh/m2": 2.891655,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201100000000",
@@ -31810,14 +32178,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 43.000439,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 13.210809,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201100000100",
@@ -31982,14 +32352,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 40.575192,
+    "out:Space Heating (DH)": 24.414742,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 13.102976,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201100001000",
@@ -32154,14 +32526,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 40.576371,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 13.210809,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201100001100",
@@ -32326,14 +32700,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 38.151125,
+    "out:Space Heating (DH)": 24.414743,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 13.102976,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201110000000",
@@ -32498,14 +32874,16 @@
     "out:Electricity Sold Profit - Grid": 21781.31802,
     "out:Electricity Sold Profit - Tenants": 7560.881846,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 43.000439,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 10.579693,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.272039,
     "out:Sell Tenants Electricty kWh/m2": 2.876257,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201110000100",
@@ -32670,14 +33048,16 @@
     "out:Electricity Sold Profit - Grid": 21897.92388,
     "out:Electricity Sold Profit - Tenants": 7583.056636,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 40.575192,
+    "out:Space Heating (DH)": 24.414742,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 10.489601,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.269696,
     "out:Sell Tenants Electricty kWh/m2": 2.891655,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201110001000",
@@ -32842,14 +33222,16 @@
     "out:Electricity Sold Profit - Grid": 21781.31802,
     "out:Electricity Sold Profit - Tenants": 7560.881846,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 40.576371,
+    "out:Space Heating (DH)": 26.839989,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.859015,
     "out:Heating Electricity (inc PV)": 10.579693,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.272039,
     "out:Sell Tenants Electricty kWh/m2": 2.876257,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.798741,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3000201110001100",
@@ -33014,14 +33396,16 @@
     "out:Electricity Sold Profit - Grid": 21897.92388,
     "out:Electricity Sold Profit - Tenants": 7583.056636,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 38.151125,
+    "out:Space Heating (DH)": 24.414743,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.751182,
     "out:Heating Electricity (inc PV)": 10.489601,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.269696,
     "out:Sell Tenants Electricty kWh/m2": 2.891655,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.801084,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000000000000",
@@ -33186,14 +33570,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 91.77636,
+    "out:Space Heating (DH)": 71.575798,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000000000100",
@@ -33358,14 +33744,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 88.795642,
+    "out:Space Heating (DH)": 68.59508,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000000001000",
@@ -33530,14 +33918,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 88.746275,
+    "out:Space Heating (DH)": 71.575797,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000000001100",
@@ -33702,14 +34092,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.765557,
+    "out:Space Heating (DH)": 68.595079,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000010000000",
@@ -33874,14 +34266,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 91.77636,
+    "out:Space Heating (DH)": 71.575798,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000010000100",
@@ -34046,14 +34440,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 88.795642,
+    "out:Space Heating (DH)": 68.59508,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000010001000",
@@ -34218,14 +34614,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 88.746275,
+    "out:Space Heating (DH)": 71.575797,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000010001100",
@@ -34390,14 +34788,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.765557,
+    "out:Space Heating (DH)": 68.595079,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000100000000",
@@ -34562,14 +34962,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 87.736247,
+    "out:Space Heating (DH)": 71.575797,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000100000100",
@@ -34734,14 +35136,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 84.755529,
+    "out:Space Heating (DH)": 68.595079,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000100001000",
@@ -34906,14 +35310,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.31218,
+    "out:Space Heating (DH)": 71.575798,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000100001100",
@@ -35078,14 +35484,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.331462,
+    "out:Space Heating (DH)": 68.59508,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000110000000",
@@ -35250,14 +35658,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 87.736247,
+    "out:Space Heating (DH)": 71.575797,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000110000100",
@@ -35422,14 +35832,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 84.755529,
+    "out:Space Heating (DH)": 68.595079,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000110001000",
@@ -35594,14 +36006,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 85.31218,
+    "out:Space Heating (DH)": 71.575798,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002000110001100",
@@ -35766,14 +36180,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 82.331462,
+    "out:Space Heating (DH)": 68.59508,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001000000000",
@@ -35938,14 +36354,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 51.239778,
+    "out:Space Heating (DH)": 31.039216,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 13.512194,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001000000100",
@@ -36110,14 +36528,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 48.572401,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 13.407747,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001000001000",
@@ -36282,14 +36702,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 48.209694,
+    "out:Space Heating (DH)": 31.039216,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 13.512194,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001000001100",
@@ -36454,14 +36876,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 45.542317,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 13.407747,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001010000000",
@@ -36626,14 +37050,16 @@
     "out:Electricity Sold Profit - Grid": 21457.26643,
     "out:Electricity Sold Profit - Tenants": 7498.408183,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 51.239778,
+    "out:Space Heating (DH)": 31.039216,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 10.831687,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.278638,
     "out:Sell Tenants Electricty kWh/m2": 2.833465,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001010000100",
@@ -36798,14 +37224,16 @@
     "out:Electricity Sold Profit - Grid": 21569.27197,
     "out:Electricity Sold Profit - Tenants": 7520.071613,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 48.572401,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 10.744319,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.27635,
     "out:Sell Tenants Electricty kWh/m2": 2.848256,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001010001000",
@@ -36970,14 +37398,16 @@
     "out:Electricity Sold Profit - Grid": 21457.26643,
     "out:Electricity Sold Profit - Tenants": 7498.408183,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 48.209694,
+    "out:Space Heating (DH)": 31.039216,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 10.831687,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.278638,
     "out:Sell Tenants Electricty kWh/m2": 2.833465,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001010001100",
@@ -37142,14 +37572,16 @@
     "out:Electricity Sold Profit - Grid": 21569.27197,
     "out:Electricity Sold Profit - Tenants": 7520.071613,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 45.542317,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 10.744319,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.27635,
     "out:Sell Tenants Electricty kWh/m2": 2.848256,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001100000000",
@@ -37314,14 +37746,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 47.199666,
+    "out:Space Heating (DH)": 31.039216,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 13.512194,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001100000100",
@@ -37486,14 +37920,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.532289,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 13.407747,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001100001000",
@@ -37658,14 +38094,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.775599,
+    "out:Space Heating (DH)": 31.039217,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 13.512194,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001100001100",
@@ -37830,14 +38268,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 42.108221,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 13.407747,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001110000000",
@@ -38002,14 +38442,16 @@
     "out:Electricity Sold Profit - Grid": 21457.26643,
     "out:Electricity Sold Profit - Tenants": 7498.408183,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 47.199666,
+    "out:Space Heating (DH)": 31.039216,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 10.831687,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.278638,
     "out:Sell Tenants Electricty kWh/m2": 2.833465,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001110000100",
@@ -38174,14 +38616,16 @@
     "out:Electricity Sold Profit - Grid": 21569.27197,
     "out:Electricity Sold Profit - Tenants": 7520.071613,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.532289,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 10.744319,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.27635,
     "out:Sell Tenants Electricty kWh/m2": 2.848256,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001110001000",
@@ -38346,14 +38790,16 @@
     "out:Electricity Sold Profit - Grid": 21457.26643,
     "out:Electricity Sold Profit - Tenants": 7498.408183,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 44.775599,
+    "out:Space Heating (DH)": 31.039217,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.1604,
     "out:Heating Electricity (inc PV)": 10.831687,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.278638,
     "out:Sell Tenants Electricty kWh/m2": 2.833465,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.792141,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002001110001100",
@@ -38518,14 +38964,16 @@
     "out:Electricity Sold Profit - Grid": 21569.27197,
     "out:Electricity Sold Profit - Tenants": 7520.071613,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 42.108221,
+    "out:Space Heating (DH)": 28.371839,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 28.055953,
     "out:Heating Electricity (inc PV)": 10.744319,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.27635,
     "out:Sell Tenants Electricty kWh/m2": 2.848256,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.79443,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200000000000",
@@ -38690,14 +39138,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 76.157826,
+    "out:Space Heating (DH)": 55.957264,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200000000100",
@@ -38862,14 +39312,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 73.887041,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200000001000",
@@ -39034,14 +39486,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 73.127741,
+    "out:Space Heating (DH)": 55.957263,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200000001100",
@@ -39206,14 +39660,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 70.856957,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200010000000",
@@ -39378,14 +39834,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 76.157826,
+    "out:Space Heating (DH)": 55.957264,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200010000100",
@@ -39550,14 +40008,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 73.887041,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200010001000",
@@ -39722,14 +40182,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 73.127741,
+    "out:Space Heating (DH)": 55.957263,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200010001100",
@@ -39894,14 +40356,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 70.856957,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200100000000",
@@ -40066,14 +40530,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 72.117713,
+    "out:Space Heating (DH)": 55.957263,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200100000100",
@@ -40238,14 +40704,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 69.846929,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200100001000",
@@ -40410,14 +40878,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 69.693646,
+    "out:Space Heating (DH)": 55.957264,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200100001100",
@@ -40582,14 +41052,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 67.422861,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 12.348706,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200110000000",
@@ -40754,14 +41226,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 72.117713,
+    "out:Space Heating (DH)": 55.957263,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200110000100",
@@ -40926,14 +41400,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 69.846929,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200110001000",
@@ -41098,14 +41574,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 69.693646,
+    "out:Space Heating (DH)": 55.957264,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002200110001100",
@@ -41270,14 +41748,16 @@
     "out:Electricity Sold Profit - Grid": 42747.783,
     "out:Electricity Sold Profit - Tenants": 11799.12775,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 67.422861,
+    "out:Space Heating (DH)": 53.686479,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 12.348706,
     "out:Heating Electricity (inc PV)": 0,
     "out:Other Electricity (inc PV)": 8.062946,
     "out:Bought Tenants Electricty kWh/m2": 3.824305,
     "out:Sell Tenants Electricty kWh/m2": 5.644911,
-    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475
+    "out:Self-consumed Tenants Electricty kWh/m2": 1.246475,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201000000000",
@@ -41442,14 +41922,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 38.24131,
+    "out:Space Heating (DH)": 18.040748,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 12.638839,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201000000100",
@@ -41614,14 +42096,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 36.330834,
+    "out:Space Heating (DH)": 16.130272,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 12.518736,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201000001000",
@@ -41786,14 +42270,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 35.211225,
+    "out:Space Heating (DH)": 18.040747,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 12.638839,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201000001100",
@@ -41958,14 +42444,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 33.300749,
+    "out:Space Heating (DH)": 16.130271,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 12.518736,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201010000000",
@@ -42130,14 +42618,16 @@
     "out:Electricity Sold Profit - Grid": 22405.36364,
     "out:Electricity Sold Profit - Tenants": 7675.762206,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 38.24131,
+    "out:Space Heating (DH)": 18.040748,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 10.102266,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.259903,
     "out:Sell Tenants Electricty kWh/m2": 2.958663,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201010000100",
@@ -42302,14 +42792,16 @@
     "out:Electricity Sold Profit - Grid": 22538.14388,
     "out:Electricity Sold Profit - Tenants": 7698.620494,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 36.330834,
+    "out:Space Heating (DH)": 16.130272,
     "out:DHW (DH)": 20.200562,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 10.002111,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.257488,
     "out:Sell Tenants Electricty kWh/m2": 2.976197,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201010001000",
@@ -42474,14 +42966,16 @@
     "out:Electricity Sold Profit - Grid": 22405.36364,
     "out:Electricity Sold Profit - Tenants": 7675.762206,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 35.211225,
+    "out:Space Heating (DH)": 18.040747,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 10.102266,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.259903,
     "out:Sell Tenants Electricty kWh/m2": 2.958663,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201010001100",
@@ -42646,14 +43140,16 @@
     "out:Electricity Sold Profit - Grid": 22538.14388,
     "out:Electricity Sold Profit - Tenants": 7698.620494,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 33.300749,
+    "out:Space Heating (DH)": 16.130271,
     "out:DHW (DH)": 17.170478,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 10.002111,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.257488,
     "out:Sell Tenants Electricty kWh/m2": 2.976197,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201100000000",
@@ -42818,14 +43314,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 34.201197,
+    "out:Space Heating (DH)": 18.040747,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 12.638839,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201100000100",
@@ -42990,14 +43488,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 32.290721,
+    "out:Space Heating (DH)": 16.130271,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 12.518736,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201100001000",
@@ -43162,14 +43662,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 31.77713,
+    "out:Space Heating (DH)": 18.040748,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 12.638839,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201100001100",
@@ -43334,14 +43836,16 @@
     "out:Electricity Sold Profit - Grid": 0,
     "out:Electricity Sold Profit - Tenants": 0,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 29.866654,
+    "out:Space Heating (DH)": 16.130272,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 12.518736,
     "out:Other Electricity (inc PV)": 14.648206,
     "out:Bought Tenants Electricty kWh/m2": 5.07078,
     "out:Sell Tenants Electricty kWh/m2": 0,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0
+    "out:Self-consumed Tenants Electricty kWh/m2": 0,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201110000000",
@@ -43506,14 +44010,16 @@
     "out:Electricity Sold Profit - Grid": 22405.36364,
     "out:Electricity Sold Profit - Tenants": 7675.762206,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 34.201197,
+    "out:Space Heating (DH)": 18.040747,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 10.102266,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.259903,
     "out:Sell Tenants Electricty kWh/m2": 2.958663,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201110000100",
@@ -43678,14 +44184,16 @@
     "out:Electricity Sold Profit - Grid": 22538.14388,
     "out:Electricity Sold Profit - Tenants": 7698.620494,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 32.290721,
+    "out:Space Heating (DH)": 16.130271,
     "out:DHW (DH)": 16.16045,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 10.002111,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.257488,
     "out:Sell Tenants Electricty kWh/m2": 2.976197,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201110001000",
@@ -43850,14 +44358,16 @@
     "out:Electricity Sold Profit - Grid": 22405.36364,
     "out:Electricity Sold Profit - Tenants": 7675.762206,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 31.77713,
+    "out:Space Heating (DH)": 18.040748,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.287045,
     "out:Heating Electricity (inc PV)": 10.102266,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.259903,
     "out:Sell Tenants Electricty kWh/m2": 2.958663,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.810877,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   },
   {
     "ID": "Z3002201110001100",
@@ -44022,13 +44532,15 @@
     "out:Electricity Sold Profit - Grid": 22538.14388,
     "out:Electricity Sold Profit - Tenants": 7698.620494,
     "out:existing PV switch": "FALSE",
-    "out:Space Heating (DH)": 29.866654,
+    "out:Space Heating (DH)": 16.130272,
     "out:DHW (DH)": 13.736382,
     "out:Property Electricity": 27.166942,
     "out:Heating Electricity (inc PV)": 10.002111,
     "out:Other Electricity (inc PV)": 9.777174,
     "out:Bought Tenants Electricty kWh/m2": 4.257488,
     "out:Sell Tenants Electricty kWh/m2": 2.976197,
-    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292
+    "out:Self-consumed Tenants Electricty kWh/m2": 0.813292,
+    "out:Total Energy Use Pre PV": 0,
+    "out:Total Energy Use Post PV": 0
   }
 ]
